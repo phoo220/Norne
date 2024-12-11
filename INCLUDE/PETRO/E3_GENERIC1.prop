@@ -1,0 +1,28 @@
+-- This reservoir simulation deck is made available under the Open Database
+-- License: http://opendatacommons.org/licenses/odbl/1.0/. Any rights in
+-- individual contents of the database are licensed under the Database Contents
+-- License: http://opendatacommons.org/licenses/dbcl/1.0/
+
+-- Copyright (C) 2015 Statoil
+
+-- Oil   grad. 0.0706 bar/m
+-- Gas   grad. 0.0186 bar/m
+-- Water grad. 0.1001 bar/m
+
+
+--Inneholder new revised contacts as of January 12, 2001
+--NB! GOC hevet til 2573.0 (fra 2580) for bedre fase og trykk match i historiefasen
+--RSVD tabell No 5 er tilpasset denne endringen
+EQUIL
+-- Datum    P     woc     Pc   goc    Pc  Rsvd  Rvvd
+--2582.0  268.56  2692.0   0.0 2582.0  0.0   1   0   0 /   C+D:	Garn
+--2500.0  263.41  2585.5   0.0 2500.0  0.0   2   0   0 /   G:	Garn
+--2582.0  269.46  2618.0   0.0 2582.0  0.0   3   0   0 /   E:	Garn 
+--2200.0  236.92  2400.0   0.0 2200.0  0.0   4   0   0 /   G:	Ile-Tilje
+2300.0  239.14  2693.3   0.0 2300.0  0.0   5   0   0 /   C+D+E:	Ile-Tilje 
+    
+RSVD
+2500.0  90.0
+2597.0  90.0
+2660.7  90.0
+2697.0  90.0 /
