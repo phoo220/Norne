@@ -69,7 +69,7 @@ EQUALS
   'MULTZ'    1.0  22  24  21  22  11  11 /  
   'MULTZ'    0.1  21  25  17  19  15  15 /    
   'MULTZ'    1.0  22  24  17  19  17  17 / 
-  'MULTZ'    1.0  22  24  15  17  18  18 /   
+  'MULTZ'    0.0  22  24  15  17  18  18 /   --changed by phoo from 1.0 to 0.0
 /  
 
 -- B-1 & B-3 water
@@ -79,5 +79,5 @@ EQUALS
 
 -- RFT D_-H
 EQUALS
-  'MULTZ'  0.1     16 19 47 53 18 18 /  D-3H
+  'MULTZ'  0.0     16 19 47 53 18 18 /  D-3H   --- from 0.1 to 00, by phoo
 /

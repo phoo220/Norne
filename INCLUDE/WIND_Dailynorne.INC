@@ -1,0 +1,7667 @@
+-- Production well controls (all start producing at day 1)
+
+GCONINJE
+	G2	WAT	RATE	3450	1*	1*	1*	YES	1*	1*	1*	1*	/
+/
+
+TSTEP
+ 1 /--1 
+
+GCONINJE
+	G2	WAT	RATE	8650	1*	1*	1*	YES	1*	1*	1*	1*	/
+/
+
+TSTEP
+ 1 /--2 
+
+GCONINJE
+	G2	WAT	RATE	8650	1*	1*	1*	YES	1*	1*	1*	1*	/
+/
+
+TSTEP
+ 1 /--3 
+
+GCONINJE
+	G2	WAT	RATE	7500	1*	1*	1*	YES	1*	1*	1*	1*	/
+/
+
+TSTEP
+ 1 /--4 
+
+GCONINJE
+	G2	WAT	RATE	1300	1*	1*	1*	YES	1*	1*	1*	1*	/
+/
+
+TSTEP
+ 1 /--5 
+
+GCONINJE
+	G2	WAT	RATE	150	1*	1*	1*	YES	1*	1*	1*	1*	/
+/
+
+TSTEP
+ 1 /--6 
+
+GCONINJE
+	G2	WAT	RATE	900	1*	1*	1*	YES	1*	1*	1*	1*	/
+/
+
+TSTEP
+ 1 /--7 
+
+GCONINJE
+	G2	WAT	RATE	5400	1*	1*	1*	YES	1*	1*	1*	1*	/
+/
+
+TSTEP
+ 1 /--8 
+
+GCONINJE
+	G2	WAT	RATE	8650	1*	1*	1*	YES	1*	1*	1*	1*	/
+/
+
+TSTEP
+ 1 /--9 
+
+GCONINJE
+	G2	WAT	RATE	8650	1*	1*	1*	YES	1*	1*	1*	1*	/
+/
+
+TSTEP
+ 1 /--10 
+
+GCONINJE
+	G2	WAT	RATE	8650	1*	1*	1*	YES	1*	1*	1*	1*	/
+/
+
+TSTEP
+ 1 /--11 
+
+GCONINJE
+	G2	WAT	RATE	8650	1*	1*	1*	YES	1*	1*	1*	1*	/
+/
+
+TSTEP
+ 1 /--12 
+
+GCONINJE
+	G2	WAT	RATE	8650	1*	1*	1*	YES	1*	1*	1*	1*	/
+/
+
+TSTEP
+ 1 /--13 
+
+GCONINJE
+	G2	WAT	RATE	8650	1*	1*	1*	YES	1*	1*	1*	1*	/
+/
+
+TSTEP
+ 1 /--14 
+
+GCONINJE
+	G2	WAT	RATE	8000	1*	1*	1*	YES	1*	1*	1*	1*	/
+/
+
+TSTEP
+ 1 /--15 
+
+GCONINJE
+	G2	WAT	RATE	6750	1*	1*	1*	YES	1*	1*	1*	1*	/
+/
+
+TSTEP
+ 1 /--16 
+
+GCONINJE
+	G2	WAT	RATE	5300	1*	1*	1*	YES	1*	1*	1*	1*	/
+/
+
+TSTEP
+ 1 /--17 
+
+GCONINJE
+	G2	WAT	RATE	8650	1*	1*	1*	YES	1*	1*	1*	1*	/
+/
+
+TSTEP
+ 1 /--18 
+
+GCONINJE
+	G2	WAT	RATE	8650	1*	1*	1*	YES	1*	1*	1*	1*	/
+/
+
+TSTEP
+ 1 /--19 
+
+GCONINJE
+	G2	WAT	RATE	8650	1*	1*	1*	YES	1*	1*	1*	1*	/
+/
+
+TSTEP
+ 1 /--20 
+
+GCONINJE
+	G2	WAT	RATE	8650	1*	1*	1*	YES	1*	1*	1*	1*	/
+/
+
+TSTEP
+ 1 /--21 
+
+GCONINJE
+	G2	WAT	RATE	8650	1*	1*	1*	YES	1*	1*	1*	1*	/
+/
+
+TSTEP
+ 1 /--22 
+
+GCONINJE
+	G2	WAT	RATE	8650	1*	1*	1*	YES	1*	1*	1*	1*	/
+/
+
+TSTEP
+ 1 /--23 
+
+GCONINJE
+	G2	WAT	RATE	8650	1*	1*	1*	YES	1*	1*	1*	1*	/
+/
+
+TSTEP
+ 1 /--24 
+
+GCONINJE
+	G2	WAT	RATE	2900	1*	1*	1*	YES	1*	1*	1*	1*	/
+/
+
+TSTEP
+ 1 /--25 
+
+GCONINJE
+	G2	WAT	RATE	6800	1*	1*	1*	YES	1*	1*	1*	1*	/
+/
+
+TSTEP
+ 1 /--26 
+
+GCONINJE
+	G2	WAT	RATE	6450	1*	1*	1*	YES	1*	1*	1*	1*	/
+/
+
+TSTEP
+ 1 /--27 
+
+GCONINJE
+	G2	WAT	RATE	8650	1*	1*	1*	YES	1*	1*	1*	1*	/
+/
+
+TSTEP
+ 1 /--28 
+
+GCONINJE
+	G2	WAT	RATE	8650	1*	1*	1*	YES	1*	1*	1*	1*	/
+/
+
+TSTEP
+ 1 /--29 
+
+GCONINJE
+	G2	WAT	RATE	8650	1*	1*	1*	YES	1*	1*	1*	1*	/
+/
+
+TSTEP
+ 1 /--30 
+
+GCONINJE
+	G2	WAT	RATE	8650	1*	1*	1*	YES	1*	1*	1*	1*	/
+/
+
+TSTEP
+ 1 /--31 
+
+GCONINJE
+	G2	WAT	RATE	8650	1*	1*	1*	YES	1*	1*	1*	1*	/
+/
+
+TSTEP
+ 1 /--32 
+
+GCONINJE
+	G2	WAT	RATE	8650	1*	1*	1*	YES	1*	1*	1*	1*	/
+/
+
+TSTEP
+ 1 /--33 
+
+GCONINJE
+	G2	WAT	RATE	400	1*	1*	1*	YES	1*	1*	1*	1*	/
+/
+
+TSTEP
+ 1 /--34 
+
+GCONINJE
+	G2	WAT	RATE	7450	1*	1*	1*	YES	1*	1*	1*	1*	/
+/
+
+TSTEP
+ 1 /--35 
+
+GCONINJE
+	G2	WAT	RATE	8650	1*	1*	1*	YES	1*	1*	1*	1*	/
+/
+
+TSTEP
+ 1 /--36 
+
+GCONINJE
+	G2	WAT	RATE	8650	1*	1*	1*	YES	1*	1*	1*	1*	/
+/
+
+TSTEP
+ 1 /--37 
+
+GCONINJE
+	G2	WAT	RATE	5850	1*	1*	1*	YES	1*	1*	1*	1*	/
+/
+
+TSTEP
+ 1 /--38 
+
+GCONINJE
+	G2	WAT	RATE	8650	1*	1*	1*	YES	1*	1*	1*	1*	/
+/
+
+TSTEP
+ 1 /--39 
+
+GCONINJE
+	G2	WAT	RATE	8650	1*	1*	1*	YES	1*	1*	1*	1*	/
+/
+
+TSTEP
+ 1 /--40 
+
+GCONINJE
+	G2	WAT	RATE	8650	1*	1*	1*	YES	1*	1*	1*	1*	/
+/
+
+TSTEP
+ 1 /--41 
+
+GCONINJE
+	G2	WAT	RATE	8650	1*	1*	1*	YES	1*	1*	1*	1*	/
+/
+
+TSTEP
+ 1 /--42 
+
+GCONINJE
+	G2	WAT	RATE	7150	1*	1*	1*	YES	1*	1*	1*	1*	/
+/
+
+TSTEP
+ 1 /--43 
+
+GCONINJE
+	G2	WAT	RATE	4500	1*	1*	1*	YES	1*	1*	1*	1*	/
+/
+
+TSTEP
+ 1 /--44 
+
+GCONINJE
+	G2	WAT	RATE	2050	1*	1*	1*	YES	1*	1*	1*	1*	/
+/
+
+TSTEP
+ 1 /--45 
+
+GCONINJE
+	G2	WAT	RATE	6700	1*	1*	1*	YES	1*	1*	1*	1*	/
+/
+
+TSTEP
+ 1 /--46 
+
+GCONINJE
+	G2	WAT	RATE	7050	1*	1*	1*	YES	1*	1*	1*	1*	/
+/
+
+TSTEP
+ 1 /--47 
+
+GCONINJE
+	G2	WAT	RATE	2850	1*	1*	1*	YES	1*	1*	1*	1*	/
+/
+
+TSTEP
+ 1 /--48 
+
+GCONINJE
+	G2	WAT	RATE	1850	1*	1*	1*	YES	1*	1*	1*	1*	/
+/
+
+TSTEP
+ 1 /--49 
+
+GCONINJE
+	G2	WAT	RATE	1750	1*	1*	1*	YES	1*	1*	1*	1*	/
+/
+
+TSTEP
+ 1 /--50 
+
+GCONINJE
+	G2	WAT	RATE	3850	1*	1*	1*	YES	1*	1*	1*	1*	/
+/
+
+TSTEP
+ 1 /--51 
+
+GCONINJE
+	G2	WAT	RATE	1350	1*	1*	1*	YES	1*	1*	1*	1*	/
+/
+
+TSTEP
+ 1 /--52 
+
+GCONINJE
+	G2	WAT	RATE	8650	1*	1*	1*	YES	1*	1*	1*	1*	/
+/
+
+TSTEP
+ 1 /--53 
+
+GCONINJE
+	G2	WAT	RATE	450	1*	1*	1*	YES	1*	1*	1*	1*	/
+/
+
+TSTEP
+ 1 /--54 
+
+GCONINJE
+	G2	WAT	RATE	1550	1*	1*	1*	YES	1*	1*	1*	1*	/
+/
+
+TSTEP
+ 1 /--55 
+
+GCONINJE
+	G2	WAT	RATE	8650	1*	1*	1*	YES	1*	1*	1*	1*	/
+/
+
+TSTEP
+ 1 /--56 
+
+GCONINJE
+	G2	WAT	RATE	8650	1*	1*	1*	YES	1*	1*	1*	1*	/
+/
+
+TSTEP
+ 1 /--57 
+
+GCONINJE
+	G2	WAT	RATE	4750	1*	1*	1*	YES	1*	1*	1*	1*	/
+/
+
+TSTEP
+ 1 /--58 
+
+GCONINJE
+	G2	WAT	RATE	750	1*	1*	1*	YES	1*	1*	1*	1*	/
+/
+
+TSTEP
+ 1 /--59 
+
+GCONINJE
+	G2	WAT	RATE	8000	1*	1*	1*	YES	1*	1*	1*	1*	/
+/
+
+TSTEP
+ 1 /--60 
+
+GCONINJE
+	G2	WAT	RATE	8650	1*	1*	1*	YES	1*	1*	1*	1*	/
+/
+
+TSTEP
+ 1 /--61 
+
+GCONINJE
+	G2	WAT	RATE	4200	1*	1*	1*	YES	1*	1*	1*	1*	/
+/
+
+TSTEP
+ 1 /--62 
+
+GCONINJE
+	G2	WAT	RATE	750	1*	1*	1*	YES	1*	1*	1*	1*	/
+/
+
+TSTEP
+ 1 /--63 
+
+GCONINJE
+	G2	WAT	RATE	500	1*	1*	1*	YES	1*	1*	1*	1*	/
+/
+
+TSTEP
+ 1 /--64 
+
+GCONINJE
+	G2	WAT	RATE	2900	1*	1*	1*	YES	1*	1*	1*	1*	/
+/
+
+TSTEP
+ 1 /--65 
+
+GCONINJE
+	G2	WAT	RATE	1300	1*	1*	1*	YES	1*	1*	1*	1*	/
+/
+
+TSTEP
+ 1 /--66 
+
+GCONINJE
+	G2	WAT	RATE	2400	1*	1*	1*	YES	1*	1*	1*	1*	/
+/
+
+TSTEP
+ 1 /--67 
+
+GCONINJE
+	G2	WAT	RATE	2300	1*	1*	1*	YES	1*	1*	1*	1*	/
+/
+
+TSTEP
+ 1 /--68 
+
+GCONINJE
+	G2	WAT	RATE	6200	1*	1*	1*	YES	1*	1*	1*	1*	/
+/
+
+TSTEP
+ 1 /--69 
+
+GCONINJE
+	G2	WAT	RATE	50	1*	1*	1*	YES	1*	1*	1*	1*	/
+/
+
+TSTEP
+ 1 /--70 
+
+GCONINJE
+	G2	WAT	RATE	1050	1*	1*	1*	YES	1*	1*	1*	1*	/
+/
+
+TSTEP
+ 1 /--71 
+
+GCONINJE
+	G2	WAT	RATE	3850	1*	1*	1*	YES	1*	1*	1*	1*	/
+/
+
+TSTEP
+ 1 /--72 
+
+GCONINJE
+	G2	WAT	RATE	1150	1*	1*	1*	YES	1*	1*	1*	1*	/
+/
+
+TSTEP
+ 1 /--73 
+
+GCONINJE
+	G2	WAT	RATE	0	1*	1*	1*	YES	1*	1*	1*	1*	/
+/
+
+TSTEP
+ 1 /--74 
+
+GCONINJE
+	G2	WAT	RATE	0	1*	1*	1*	YES	1*	1*	1*	1*	/
+/
+
+TSTEP
+ 1 /--75 
+
+GCONINJE
+	G2	WAT	RATE	6150	1*	1*	1*	YES	1*	1*	1*	1*	/
+/
+
+TSTEP
+ 1 /--76 
+
+GCONINJE
+	G2	WAT	RATE	8650	1*	1*	1*	YES	1*	1*	1*	1*	/
+/
+
+TSTEP
+ 1 /--77 
+
+GCONINJE
+	G2	WAT	RATE	8650	1*	1*	1*	YES	1*	1*	1*	1*	/
+/
+
+TSTEP
+ 1 /--78 
+
+GCONINJE
+	G2	WAT	RATE	8650	1*	1*	1*	YES	1*	1*	1*	1*	/
+/
+
+TSTEP
+ 1 /--79 
+
+GCONINJE
+	G2	WAT	RATE	4800	1*	1*	1*	YES	1*	1*	1*	1*	/
+/
+
+TSTEP
+ 1 /--80 
+
+GCONINJE
+	G2	WAT	RATE	5700	1*	1*	1*	YES	1*	1*	1*	1*	/
+/
+
+TSTEP
+ 1 /--81 
+
+GCONINJE
+	G2	WAT	RATE	450	1*	1*	1*	YES	1*	1*	1*	1*	/
+/
+
+TSTEP
+ 1 /--82 
+
+GCONINJE
+	G2	WAT	RATE	1450	1*	1*	1*	YES	1*	1*	1*	1*	/
+/
+
+TSTEP
+ 1 /--83 
+
+GCONINJE
+	G2	WAT	RATE	2100	1*	1*	1*	YES	1*	1*	1*	1*	/
+/
+
+TSTEP
+ 1 /--84 
+
+GCONINJE
+	G2	WAT	RATE	700	1*	1*	1*	YES	1*	1*	1*	1*	/
+/
+
+TSTEP
+ 1 /--85 
+
+GCONINJE
+	G2	WAT	RATE	550	1*	1*	1*	YES	1*	1*	1*	1*	/
+/
+
+TSTEP
+ 1 /--86 
+
+GCONINJE
+	G2	WAT	RATE	4850	1*	1*	1*	YES	1*	1*	1*	1*	/
+/
+
+TSTEP
+ 1 /--87 
+
+GCONINJE
+	G2	WAT	RATE	5600	1*	1*	1*	YES	1*	1*	1*	1*	/
+/
+
+TSTEP
+ 1 /--88 
+
+GCONINJE
+	G2	WAT	RATE	6200	1*	1*	1*	YES	1*	1*	1*	1*	/
+/
+
+TSTEP
+ 1 /--89 
+
+GCONINJE
+	G2	WAT	RATE	1750	1*	1*	1*	YES	1*	1*	1*	1*	/
+/
+
+TSTEP
+ 1 /--90 
+
+GCONINJE
+	G2	WAT	RATE	1300	1*	1*	1*	YES	1*	1*	1*	1*	/
+/
+
+TSTEP
+ 1 /--91 
+
+GCONINJE
+	G2	WAT	RATE	3450	1*	1*	1*	YES	1*	1*	1*	1*	/
+/
+
+TSTEP
+ 1 /--92 
+
+GCONINJE
+	G2	WAT	RATE	8650	1*	1*	1*	YES	1*	1*	1*	1*	/
+/
+
+TSTEP
+ 1 /--93 
+
+GCONINJE
+	G2	WAT	RATE	8650	1*	1*	1*	YES	1*	1*	1*	1*	/
+/
+
+TSTEP
+ 1 /--94 
+
+GCONINJE
+	G2	WAT	RATE	1950	1*	1*	1*	YES	1*	1*	1*	1*	/
+/
+
+TSTEP
+ 1 /--95 
+
+GCONINJE
+	G2	WAT	RATE	3950	1*	1*	1*	YES	1*	1*	1*	1*	/
+/
+
+TSTEP
+ 1 /--96 
+
+GCONINJE
+	G2	WAT	RATE	2050	1*	1*	1*	YES	1*	1*	1*	1*	/
+/
+
+TSTEP
+ 1 /--97 
+
+GCONINJE
+	G2	WAT	RATE	800	1*	1*	1*	YES	1*	1*	1*	1*	/
+/
+
+TSTEP
+ 1 /--98 
+
+GCONINJE
+	G2	WAT	RATE	950	1*	1*	1*	YES	1*	1*	1*	1*	/
+/
+
+TSTEP
+ 1 /--99 
+
+GCONINJE
+	G2	WAT	RATE	2450	1*	1*	1*	YES	1*	1*	1*	1*	/
+/
+
+TSTEP
+ 1 /--100 
+
+GCONINJE
+	G2	WAT	RATE	1700	1*	1*	1*	YES	1*	1*	1*	1*	/
+/
+
+TSTEP
+ 1 /--101 
+
+GCONINJE
+	G2	WAT	RATE	4650	1*	1*	1*	YES	1*	1*	1*	1*	/
+/
+
+TSTEP
+ 1 /--102 
+
+GCONINJE
+	G2	WAT	RATE	4550	1*	1*	1*	YES	1*	1*	1*	1*	/
+/
+
+TSTEP
+ 1 /--103 
+
+GCONINJE
+	G2	WAT	RATE	8650	1*	1*	1*	YES	1*	1*	1*	1*	/
+/
+
+TSTEP
+ 1 /--104 
+
+GCONINJE
+	G2	WAT	RATE	8650	1*	1*	1*	YES	1*	1*	1*	1*	/
+/
+
+TSTEP
+ 1 /--105 
+
+GCONINJE
+	G2	WAT	RATE	6300	1*	1*	1*	YES	1*	1*	1*	1*	/
+/
+
+TSTEP
+ 1 /--106 
+
+GCONINJE
+	G2	WAT	RATE	3150	1*	1*	1*	YES	1*	1*	1*	1*	/
+/
+
+TSTEP
+ 1 /--107 
+
+GCONINJE
+	G2	WAT	RATE	1800	1*	1*	1*	YES	1*	1*	1*	1*	/
+/
+
+TSTEP
+ 1 /--108 
+
+GCONINJE
+	G2	WAT	RATE	6850	1*	1*	1*	YES	1*	1*	1*	1*	/
+/
+
+TSTEP
+ 1 /--109 
+
+GCONINJE
+	G2	WAT	RATE	100	1*	1*	1*	YES	1*	1*	1*	1*	/
+/
+
+TSTEP
+ 1 /--110 
+
+GCONINJE
+	G2	WAT	RATE	800	1*	1*	1*	YES	1*	1*	1*	1*	/
+/
+
+TSTEP
+ 1 /--111 
+
+GCONINJE
+	G2	WAT	RATE	8650	1*	1*	1*	YES	1*	1*	1*	1*	/
+/
+
+TSTEP
+ 1 /--112 
+
+GCONINJE
+	G2	WAT	RATE	8650	1*	1*	1*	YES	1*	1*	1*	1*	/
+/
+
+TSTEP
+ 1 /--113 
+
+GCONINJE
+	G2	WAT	RATE	5050	1*	1*	1*	YES	1*	1*	1*	1*	/
+/
+
+TSTEP
+ 1 /--114 
+
+GCONINJE
+	G2	WAT	RATE	7550	1*	1*	1*	YES	1*	1*	1*	1*	/
+/
+
+TSTEP
+ 1 /--115 
+
+GCONINJE
+	G2	WAT	RATE	8650	1*	1*	1*	YES	1*	1*	1*	1*	/
+/
+
+TSTEP
+ 1 /--116 
+
+GCONINJE
+	G2	WAT	RATE	7850	1*	1*	1*	YES	1*	1*	1*	1*	/
+/
+
+TSTEP
+ 1 /--117 
+
+GCONINJE
+	G2	WAT	RATE	1350	1*	1*	1*	YES	1*	1*	1*	1*	/
+/
+
+TSTEP
+ 1 /--118 
+
+GCONINJE
+	G2	WAT	RATE	4200	1*	1*	1*	YES	1*	1*	1*	1*	/
+/
+
+TSTEP
+ 1 /--119 
+
+GCONINJE
+	G2	WAT	RATE	3600	1*	1*	1*	YES	1*	1*	1*	1*	/
+/
+
+TSTEP
+ 1 /--120 
+
+GCONINJE
+	G2	WAT	RATE	6050	1*	1*	1*	YES	1*	1*	1*	1*	/
+/
+
+TSTEP
+ 1 /--121 
+
+GCONINJE
+	G2	WAT	RATE	2550	1*	1*	1*	YES	1*	1*	1*	1*	/
+/
+
+TSTEP
+ 1 /--122 
+
+GCONINJE
+	G2	WAT	RATE	5300	1*	1*	1*	YES	1*	1*	1*	1*	/
+/
+
+TSTEP
+ 1 /--123 
+
+GCONINJE
+	G2	WAT	RATE	2800	1*	1*	1*	YES	1*	1*	1*	1*	/
+/
+
+TSTEP
+ 1 /--124 
+
+GCONINJE
+	G2	WAT	RATE	2150	1*	1*	1*	YES	1*	1*	1*	1*	/
+/
+
+TSTEP
+ 1 /--125 
+
+GCONINJE
+	G2	WAT	RATE	2900	1*	1*	1*	YES	1*	1*	1*	1*	/
+/
+
+TSTEP
+ 1 /--126 
+
+GCONINJE
+	G2	WAT	RATE	800	1*	1*	1*	YES	1*	1*	1*	1*	/
+/
+
+TSTEP
+ 1 /--127 
+
+GCONINJE
+	G2	WAT	RATE	3050	1*	1*	1*	YES	1*	1*	1*	1*	/
+/
+
+TSTEP
+ 1 /--128 
+
+GCONINJE
+	G2	WAT	RATE	2600	1*	1*	1*	YES	1*	1*	1*	1*	/
+/
+
+TSTEP
+ 1 /--129 
+
+GCONINJE
+	G2	WAT	RATE	400	1*	1*	1*	YES	1*	1*	1*	1*	/
+/
+
+TSTEP
+ 1 /--130 
+
+GCONINJE
+	G2	WAT	RATE	2450	1*	1*	1*	YES	1*	1*	1*	1*	/
+/
+
+TSTEP
+ 1 /--131 
+
+GCONINJE
+	G2	WAT	RATE	8650	1*	1*	1*	YES	1*	1*	1*	1*	/
+/
+
+TSTEP
+ 1 /--132 
+
+GCONINJE
+	G2	WAT	RATE	6600	1*	1*	1*	YES	1*	1*	1*	1*	/
+/
+
+TSTEP
+ 1 /--133 
+
+GCONINJE
+	G2	WAT	RATE	8650	1*	1*	1*	YES	1*	1*	1*	1*	/
+/
+
+TSTEP
+ 1 /--134 
+
+GCONINJE
+	G2	WAT	RATE	3950	1*	1*	1*	YES	1*	1*	1*	1*	/
+/
+
+TSTEP
+ 1 /--135 
+
+GCONINJE
+	G2	WAT	RATE	8650	1*	1*	1*	YES	1*	1*	1*	1*	/
+/
+
+TSTEP
+ 1 /--136 
+
+GCONINJE
+	G2	WAT	RATE	8650	1*	1*	1*	YES	1*	1*	1*	1*	/
+/
+
+TSTEP
+ 1 /--137 
+
+GCONINJE
+	G2	WAT	RATE	3850	1*	1*	1*	YES	1*	1*	1*	1*	/
+/
+
+TSTEP
+ 1 /--138 
+
+GCONINJE
+	G2	WAT	RATE	1450	1*	1*	1*	YES	1*	1*	1*	1*	/
+/
+
+TSTEP
+ 1 /--139 
+
+GCONINJE
+	G2	WAT	RATE	1600	1*	1*	1*	YES	1*	1*	1*	1*	/
+/
+
+TSTEP
+ 1 /--140 
+
+GCONINJE
+	G2	WAT	RATE	1050	1*	1*	1*	YES	1*	1*	1*	1*	/
+/
+
+TSTEP
+ 1 /--141 
+
+GCONINJE
+	G2	WAT	RATE	1950	1*	1*	1*	YES	1*	1*	1*	1*	/
+/
+
+TSTEP
+ 1 /--142 
+
+GCONINJE
+	G2	WAT	RATE	2300	1*	1*	1*	YES	1*	1*	1*	1*	/
+/
+
+TSTEP
+ 1 /--143 
+
+GCONINJE
+	G2	WAT	RATE	450	1*	1*	1*	YES	1*	1*	1*	1*	/
+/
+
+TSTEP
+ 1 /--144 
+
+GCONINJE
+	G2	WAT	RATE	500	1*	1*	1*	YES	1*	1*	1*	1*	/
+/
+
+TSTEP
+ 1 /--145 
+
+GCONINJE
+	G2	WAT	RATE	1550	1*	1*	1*	YES	1*	1*	1*	1*	/
+/
+
+TSTEP
+ 1 /--146 
+
+GCONINJE
+	G2	WAT	RATE	8650	1*	1*	1*	YES	1*	1*	1*	1*	/
+/
+
+TSTEP
+ 1 /--147 
+
+GCONINJE
+	G2	WAT	RATE	8100	1*	1*	1*	YES	1*	1*	1*	1*	/
+/
+
+TSTEP
+ 1 /--148 
+
+GCONINJE
+	G2	WAT	RATE	3750	1*	1*	1*	YES	1*	1*	1*	1*	/
+/
+
+TSTEP
+ 1 /--149 
+
+GCONINJE
+	G2	WAT	RATE	6900	1*	1*	1*	YES	1*	1*	1*	1*	/
+/
+
+TSTEP
+ 1 /--150 
+
+GCONINJE
+	G2	WAT	RATE	5600	1*	1*	1*	YES	1*	1*	1*	1*	/
+/
+
+TSTEP
+ 1 /--151 
+
+GCONINJE
+	G2	WAT	RATE	1950	1*	1*	1*	YES	1*	1*	1*	1*	/
+/
+
+TSTEP
+ 1 /--152 
+
+GCONINJE
+	G2	WAT	RATE	8650	1*	1*	1*	YES	1*	1*	1*	1*	/
+/
+
+TSTEP
+ 1 /--153 
+
+GCONINJE
+	G2	WAT	RATE	8650	1*	1*	1*	YES	1*	1*	1*	1*	/
+/
+
+TSTEP
+ 1 /--154 
+
+GCONINJE
+	G2	WAT	RATE	8650	1*	1*	1*	YES	1*	1*	1*	1*	/
+/
+
+TSTEP
+ 1 /--155 
+
+GCONINJE
+	G2	WAT	RATE	550	1*	1*	1*	YES	1*	1*	1*	1*	/
+/
+
+TSTEP
+ 1 /--156 
+
+GCONINJE
+	G2	WAT	RATE	950	1*	1*	1*	YES	1*	1*	1*	1*	/
+/
+
+TSTEP
+ 1 /--157 
+
+GCONINJE
+	G2	WAT	RATE	3250	1*	1*	1*	YES	1*	1*	1*	1*	/
+/
+
+TSTEP
+ 1 /--158 
+
+GCONINJE
+	G2	WAT	RATE	8650	1*	1*	1*	YES	1*	1*	1*	1*	/
+/
+
+TSTEP
+ 1 /--159 
+
+GCONINJE
+	G2	WAT	RATE	8650	1*	1*	1*	YES	1*	1*	1*	1*	/
+/
+
+TSTEP
+ 1 /--160 
+
+GCONINJE
+	G2	WAT	RATE	2000	1*	1*	1*	YES	1*	1*	1*	1*	/
+/
+
+TSTEP
+ 1 /--161 
+
+GCONINJE
+	G2	WAT	RATE	1650	1*	1*	1*	YES	1*	1*	1*	1*	/
+/
+
+TSTEP
+ 1 /--162 
+
+GCONINJE
+	G2	WAT	RATE	450	1*	1*	1*	YES	1*	1*	1*	1*	/
+/
+
+TSTEP
+ 1 /--163 
+
+GCONINJE
+	G2	WAT	RATE	8650	1*	1*	1*	YES	1*	1*	1*	1*	/
+/
+
+TSTEP
+ 1 /--164 
+
+GCONINJE
+	G2	WAT	RATE	8650	1*	1*	1*	YES	1*	1*	1*	1*	/
+/
+
+TSTEP
+ 1 /--165 
+
+GCONINJE
+	G2	WAT	RATE	8650	1*	1*	1*	YES	1*	1*	1*	1*	/
+/
+
+TSTEP
+ 1 /--166 
+
+GCONINJE
+	G2	WAT	RATE	6050	1*	1*	1*	YES	1*	1*	1*	1*	/
+/
+
+TSTEP
+ 1 /--167 
+
+GCONINJE
+	G2	WAT	RATE	1000	1*	1*	1*	YES	1*	1*	1*	1*	/
+/
+
+TSTEP
+ 1 /--168 
+
+GCONINJE
+	G2	WAT	RATE	1100	1*	1*	1*	YES	1*	1*	1*	1*	/
+/
+
+TSTEP
+ 1 /--169 
+
+GCONINJE
+	G2	WAT	RATE	1200	1*	1*	1*	YES	1*	1*	1*	1*	/
+/
+
+TSTEP
+ 1 /--170 
+
+GCONINJE
+	G2	WAT	RATE	550	1*	1*	1*	YES	1*	1*	1*	1*	/
+/
+
+TSTEP
+ 1 /--171 
+
+GCONINJE
+	G2	WAT	RATE	2700	1*	1*	1*	YES	1*	1*	1*	1*	/
+/
+
+TSTEP
+ 1 /--172 
+
+GCONINJE
+	G2	WAT	RATE	200	1*	1*	1*	YES	1*	1*	1*	1*	/
+/
+
+TSTEP
+ 1 /--173 
+
+GCONINJE
+	G2	WAT	RATE	5650	1*	1*	1*	YES	1*	1*	1*	1*	/
+/
+
+TSTEP
+ 1 /--174 
+
+GCONINJE
+	G2	WAT	RATE	950	1*	1*	1*	YES	1*	1*	1*	1*	/
+/
+
+TSTEP
+ 1 /--175 
+
+GCONINJE
+	G2	WAT	RATE	1950	1*	1*	1*	YES	1*	1*	1*	1*	/
+/
+
+TSTEP
+ 1 /--176 
+
+GCONINJE
+	G2	WAT	RATE	300	1*	1*	1*	YES	1*	1*	1*	1*	/
+/
+
+TSTEP
+ 1 /--177 
+
+GCONINJE
+	G2	WAT	RATE	1800	1*	1*	1*	YES	1*	1*	1*	1*	/
+/
+
+TSTEP
+ 1 /--178 
+
+GCONINJE
+	G2	WAT	RATE	0	1*	1*	1*	YES	1*	1*	1*	1*	/
+/
+
+TSTEP
+ 1 /--179 
+
+GCONINJE
+	G2	WAT	RATE	0	1*	1*	1*	YES	1*	1*	1*	1*	/
+/
+
+TSTEP
+ 1 /--180 
+
+GCONINJE
+	G2	WAT	RATE	500	1*	1*	1*	YES	1*	1*	1*	1*	/
+/
+
+TSTEP
+ 1 /--181 
+
+GCONINJE
+	G2	WAT	RATE	750	1*	1*	1*	YES	1*	1*	1*	1*	/
+/
+
+TSTEP
+ 1 /--182 
+
+GCONINJE
+	G2	WAT	RATE	1250	1*	1*	1*	YES	1*	1*	1*	1*	/
+/
+
+TSTEP
+ 1 /--183 
+
+GCONINJE
+	G2	WAT	RATE	0	1*	1*	1*	YES	1*	1*	1*	1*	/
+/
+
+TSTEP
+ 1 /--184 
+
+GCONINJE
+	G2	WAT	RATE	1650	1*	1*	1*	YES	1*	1*	1*	1*	/
+/
+
+TSTEP
+ 1 /--185 
+
+GCONINJE
+	G2	WAT	RATE	550	1*	1*	1*	YES	1*	1*	1*	1*	/
+/
+
+TSTEP
+ 1 /--186 
+
+GCONINJE
+	G2	WAT	RATE	1850	1*	1*	1*	YES	1*	1*	1*	1*	/
+/
+
+TSTEP
+ 1 /--187 
+
+GCONINJE
+	G2	WAT	RATE	450	1*	1*	1*	YES	1*	1*	1*	1*	/
+/
+
+TSTEP
+ 1 /--188 
+
+GCONINJE
+	G2	WAT	RATE	750	1*	1*	1*	YES	1*	1*	1*	1*	/
+/
+
+TSTEP
+ 1 /--189 
+
+GCONINJE
+	G2	WAT	RATE	1150	1*	1*	1*	YES	1*	1*	1*	1*	/
+/
+
+TSTEP
+ 1 /--190 
+
+GCONINJE
+	G2	WAT	RATE	8250	1*	1*	1*	YES	1*	1*	1*	1*	/
+/
+
+TSTEP
+ 1 /--191 
+
+GCONINJE
+	G2	WAT	RATE	7100	1*	1*	1*	YES	1*	1*	1*	1*	/
+/
+
+TSTEP
+ 1 /--192 
+
+GCONINJE
+	G2	WAT	RATE	8650	1*	1*	1*	YES	1*	1*	1*	1*	/
+/
+
+TSTEP
+ 1 /--193 
+
+GCONINJE
+	G2	WAT	RATE	8650	1*	1*	1*	YES	1*	1*	1*	1*	/
+/
+
+TSTEP
+ 1 /--194 
+
+GCONINJE
+	G2	WAT	RATE	8650	1*	1*	1*	YES	1*	1*	1*	1*	/
+/
+
+TSTEP
+ 1 /--195 
+
+GCONINJE
+	G2	WAT	RATE	5500	1*	1*	1*	YES	1*	1*	1*	1*	/
+/
+
+TSTEP
+ 1 /--196 
+
+GCONINJE
+	G2	WAT	RATE	5350	1*	1*	1*	YES	1*	1*	1*	1*	/
+/
+
+TSTEP
+ 1 /--197 
+
+GCONINJE
+	G2	WAT	RATE	8650	1*	1*	1*	YES	1*	1*	1*	1*	/
+/
+
+TSTEP
+ 1 /--198 
+
+GCONINJE
+	G2	WAT	RATE	500	1*	1*	1*	YES	1*	1*	1*	1*	/
+/
+
+TSTEP
+ 1 /--199 
+
+GCONINJE
+	G2	WAT	RATE	4850	1*	1*	1*	YES	1*	1*	1*	1*	/
+/
+
+TSTEP
+ 1 /--200 
+
+GCONINJE
+	G2	WAT	RATE	8050	1*	1*	1*	YES	1*	1*	1*	1*	/
+/
+
+TSTEP
+ 1 /--201 
+
+GCONINJE
+	G2	WAT	RATE	2950	1*	1*	1*	YES	1*	1*	1*	1*	/
+/
+
+TSTEP
+ 1 /--202 
+
+GCONINJE
+	G2	WAT	RATE	750	1*	1*	1*	YES	1*	1*	1*	1*	/
+/
+
+TSTEP
+ 1 /--203 
+
+GCONINJE
+	G2	WAT	RATE	1100	1*	1*	1*	YES	1*	1*	1*	1*	/
+/
+
+TSTEP
+ 1 /--204 
+
+GCONINJE
+	G2	WAT	RATE	250	1*	1*	1*	YES	1*	1*	1*	1*	/
+/
+
+TSTEP
+ 1 /--205 
+
+GCONINJE
+	G2	WAT	RATE	0	1*	1*	1*	YES	1*	1*	1*	1*	/
+/
+
+TSTEP
+ 1 /--206 
+
+GCONINJE
+	G2	WAT	RATE	0	1*	1*	1*	YES	1*	1*	1*	1*	/
+/
+
+TSTEP
+ 1 /--207 
+
+GCONINJE
+	G2	WAT	RATE	0	1*	1*	1*	YES	1*	1*	1*	1*	/
+/
+
+TSTEP
+ 1 /--208 
+
+GCONINJE
+	G2	WAT	RATE	800	1*	1*	1*	YES	1*	1*	1*	1*	/
+/
+
+TSTEP
+ 1 /--209 
+
+GCONINJE
+	G2	WAT	RATE	5900	1*	1*	1*	YES	1*	1*	1*	1*	/
+/
+
+TSTEP
+ 1 /--210 
+
+GCONINJE
+	G2	WAT	RATE	1050	1*	1*	1*	YES	1*	1*	1*	1*	/
+/
+
+TSTEP
+ 1 /--211 
+
+GCONINJE
+	G2	WAT	RATE	2350	1*	1*	1*	YES	1*	1*	1*	1*	/
+/
+
+TSTEP
+ 1 /--212 
+
+GCONINJE
+	G2	WAT	RATE	400	1*	1*	1*	YES	1*	1*	1*	1*	/
+/
+
+TSTEP
+ 1 /--213 
+
+GCONINJE
+	G2	WAT	RATE	1350	1*	1*	1*	YES	1*	1*	1*	1*	/
+/
+
+TSTEP
+ 1 /--214 
+
+GCONINJE
+	G2	WAT	RATE	1100	1*	1*	1*	YES	1*	1*	1*	1*	/
+/
+
+TSTEP
+ 1 /--215 
+
+GCONINJE
+	G2	WAT	RATE	1700	1*	1*	1*	YES	1*	1*	1*	1*	/
+/
+
+TSTEP
+ 1 /--216 
+
+GCONINJE
+	G2	WAT	RATE	200	1*	1*	1*	YES	1*	1*	1*	1*	/
+/
+
+TSTEP
+ 1 /--217 
+
+GCONINJE
+	G2	WAT	RATE	4950	1*	1*	1*	YES	1*	1*	1*	1*	/
+/
+
+TSTEP
+ 1 /--218 
+
+GCONINJE
+	G2	WAT	RATE	4400	1*	1*	1*	YES	1*	1*	1*	1*	/
+/
+
+TSTEP
+ 1 /--219 
+
+GCONINJE
+	G2	WAT	RATE	3700	1*	1*	1*	YES	1*	1*	1*	1*	/
+/
+
+TSTEP
+ 1 /--220 
+
+GCONINJE
+	G2	WAT	RATE	1500	1*	1*	1*	YES	1*	1*	1*	1*	/
+/
+
+TSTEP
+ 1 /--221 
+
+GCONINJE
+	G2	WAT	RATE	750	1*	1*	1*	YES	1*	1*	1*	1*	/
+/
+
+TSTEP
+ 1 /--222 
+
+GCONINJE
+	G2	WAT	RATE	1700	1*	1*	1*	YES	1*	1*	1*	1*	/
+/
+
+TSTEP
+ 1 /--223 
+
+GCONINJE
+	G2	WAT	RATE	1000	1*	1*	1*	YES	1*	1*	1*	1*	/
+/
+
+TSTEP
+ 1 /--224 
+
+GCONINJE
+	G2	WAT	RATE	4700	1*	1*	1*	YES	1*	1*	1*	1*	/
+/
+
+TSTEP
+ 1 /--225 
+
+GCONINJE
+	G2	WAT	RATE	8650	1*	1*	1*	YES	1*	1*	1*	1*	/
+/
+
+TSTEP
+ 1 /--226 
+
+GCONINJE
+	G2	WAT	RATE	8650	1*	1*	1*	YES	1*	1*	1*	1*	/
+/
+
+TSTEP
+ 1 /--227 
+
+GCONINJE
+	G2	WAT	RATE	1700	1*	1*	1*	YES	1*	1*	1*	1*	/
+/
+
+TSTEP
+ 1 /--228 
+
+GCONINJE
+	G2	WAT	RATE	300	1*	1*	1*	YES	1*	1*	1*	1*	/
+/
+
+TSTEP
+ 1 /--229 
+
+GCONINJE
+	G2	WAT	RATE	1150	1*	1*	1*	YES	1*	1*	1*	1*	/
+/
+
+TSTEP
+ 1 /--230 
+
+GCONINJE
+	G2	WAT	RATE	6900	1*	1*	1*	YES	1*	1*	1*	1*	/
+/
+
+TSTEP
+ 1 /--231 
+
+GCONINJE
+	G2	WAT	RATE	2450	1*	1*	1*	YES	1*	1*	1*	1*	/
+/
+
+TSTEP
+ 1 /--232 
+
+GCONINJE
+	G2	WAT	RATE	6150	1*	1*	1*	YES	1*	1*	1*	1*	/
+/
+
+TSTEP
+ 1 /--233 
+
+GCONINJE
+	G2	WAT	RATE	8650	1*	1*	1*	YES	1*	1*	1*	1*	/
+/
+
+TSTEP
+ 1 /--234 
+
+GCONINJE
+	G2	WAT	RATE	2100	1*	1*	1*	YES	1*	1*	1*	1*	/
+/
+
+TSTEP
+ 1 /--235 
+
+GCONINJE
+	G2	WAT	RATE	250	1*	1*	1*	YES	1*	1*	1*	1*	/
+/
+
+TSTEP
+ 1 /--236 
+
+GCONINJE
+	G2	WAT	RATE	400	1*	1*	1*	YES	1*	1*	1*	1*	/
+/
+
+TSTEP
+ 1 /--237 
+
+GCONINJE
+	G2	WAT	RATE	400	1*	1*	1*	YES	1*	1*	1*	1*	/
+/
+
+TSTEP
+ 1 /--238 
+
+GCONINJE
+	G2	WAT	RATE	1650	1*	1*	1*	YES	1*	1*	1*	1*	/
+/
+
+TSTEP
+ 1 /--239 
+
+GCONINJE
+	G2	WAT	RATE	5600	1*	1*	1*	YES	1*	1*	1*	1*	/
+/
+
+TSTEP
+ 1 /--240 
+
+GCONINJE
+	G2	WAT	RATE	6800	1*	1*	1*	YES	1*	1*	1*	1*	/
+/
+
+TSTEP
+ 1 /--241 
+
+GCONINJE
+	G2	WAT	RATE	6150	1*	1*	1*	YES	1*	1*	1*	1*	/
+/
+
+TSTEP
+ 1 /--242 
+
+GCONINJE
+	G2	WAT	RATE	8100	1*	1*	1*	YES	1*	1*	1*	1*	/
+/
+
+TSTEP
+ 1 /--243 
+
+GCONINJE
+	G2	WAT	RATE	2000	1*	1*	1*	YES	1*	1*	1*	1*	/
+/
+
+TSTEP
+ 1 /--244 
+
+GCONINJE
+	G2	WAT	RATE	1650	1*	1*	1*	YES	1*	1*	1*	1*	/
+/
+
+TSTEP
+ 1 /--245 
+
+GCONINJE
+	G2	WAT	RATE	4850	1*	1*	1*	YES	1*	1*	1*	1*	/
+/
+
+TSTEP
+ 1 /--246 
+
+GCONINJE
+	G2	WAT	RATE	8650	1*	1*	1*	YES	1*	1*	1*	1*	/
+/
+
+TSTEP
+ 1 /--247 
+
+GCONINJE
+	G2	WAT	RATE	8650	1*	1*	1*	YES	1*	1*	1*	1*	/
+/
+
+TSTEP
+ 1 /--248 
+
+GCONINJE
+	G2	WAT	RATE	6250	1*	1*	1*	YES	1*	1*	1*	1*	/
+/
+
+TSTEP
+ 1 /--249 
+
+GCONINJE
+	G2	WAT	RATE	4400	1*	1*	1*	YES	1*	1*	1*	1*	/
+/
+
+TSTEP
+ 1 /--250 
+
+GCONINJE
+	G2	WAT	RATE	8650	1*	1*	1*	YES	1*	1*	1*	1*	/
+/
+
+TSTEP
+ 1 /--251 
+
+GCONINJE
+	G2	WAT	RATE	8650	1*	1*	1*	YES	1*	1*	1*	1*	/
+/
+
+TSTEP
+ 1 /--252 
+
+GCONINJE
+	G2	WAT	RATE	8650	1*	1*	1*	YES	1*	1*	1*	1*	/
+/
+
+TSTEP
+ 1 /--253 
+
+GCONINJE
+	G2	WAT	RATE	3450	1*	1*	1*	YES	1*	1*	1*	1*	/
+/
+
+TSTEP
+ 1 /--254 
+
+GCONINJE
+	G2	WAT	RATE	6100	1*	1*	1*	YES	1*	1*	1*	1*	/
+/
+
+TSTEP
+ 1 /--255 
+
+GCONINJE
+	G2	WAT	RATE	2150	1*	1*	1*	YES	1*	1*	1*	1*	/
+/
+
+TSTEP
+ 1 /--256 
+
+GCONINJE
+	G2	WAT	RATE	5850	1*	1*	1*	YES	1*	1*	1*	1*	/
+/
+
+TSTEP
+ 1 /--257 
+
+GCONINJE
+	G2	WAT	RATE	1900	1*	1*	1*	YES	1*	1*	1*	1*	/
+/
+
+TSTEP
+ 1 /--258 
+
+GCONINJE
+	G2	WAT	RATE	1200	1*	1*	1*	YES	1*	1*	1*	1*	/
+/
+
+TSTEP
+ 1 /--259 
+
+GCONINJE
+	G2	WAT	RATE	350	1*	1*	1*	YES	1*	1*	1*	1*	/
+/
+
+TSTEP
+ 1 /--260 
+
+GCONINJE
+	G2	WAT	RATE	500	1*	1*	1*	YES	1*	1*	1*	1*	/
+/
+
+TSTEP
+ 1 /--261 
+
+GCONINJE
+	G2	WAT	RATE	450	1*	1*	1*	YES	1*	1*	1*	1*	/
+/
+
+TSTEP
+ 1 /--262 
+
+GCONINJE
+	G2	WAT	RATE	8650	1*	1*	1*	YES	1*	1*	1*	1*	/
+/
+
+TSTEP
+ 1 /--263 
+
+GCONINJE
+	G2	WAT	RATE	8650	1*	1*	1*	YES	1*	1*	1*	1*	/
+/
+
+TSTEP
+ 1 /--264 
+
+GCONINJE
+	G2	WAT	RATE	1800	1*	1*	1*	YES	1*	1*	1*	1*	/
+/
+
+TSTEP
+ 1 /--265 
+
+GCONINJE
+	G2	WAT	RATE	8650	1*	1*	1*	YES	1*	1*	1*	1*	/
+/
+
+TSTEP
+ 1 /--266 
+
+GCONINJE
+	G2	WAT	RATE	6550	1*	1*	1*	YES	1*	1*	1*	1*	/
+/
+
+TSTEP
+ 1 /--267 
+
+GCONINJE
+	G2	WAT	RATE	3150	1*	1*	1*	YES	1*	1*	1*	1*	/
+/
+
+TSTEP
+ 1 /--268 
+
+GCONINJE
+	G2	WAT	RATE	850	1*	1*	1*	YES	1*	1*	1*	1*	/
+/
+
+TSTEP
+ 1 /--269 
+
+GCONINJE
+	G2	WAT	RATE	3500	1*	1*	1*	YES	1*	1*	1*	1*	/
+/
+
+TSTEP
+ 1 /--270 
+
+GCONINJE
+	G2	WAT	RATE	1600	1*	1*	1*	YES	1*	1*	1*	1*	/
+/
+
+TSTEP
+ 1 /--271 
+
+GCONINJE
+	G2	WAT	RATE	6750	1*	1*	1*	YES	1*	1*	1*	1*	/
+/
+
+TSTEP
+ 1 /--272 
+
+GCONINJE
+	G2	WAT	RATE	2100	1*	1*	1*	YES	1*	1*	1*	1*	/
+/
+
+TSTEP
+ 1 /--273 
+
+GCONINJE
+	G2	WAT	RATE	5500	1*	1*	1*	YES	1*	1*	1*	1*	/
+/
+
+TSTEP
+ 1 /--274 
+
+GCONINJE
+	G2	WAT	RATE	8650	1*	1*	1*	YES	1*	1*	1*	1*	/
+/
+
+TSTEP
+ 1 /--275 
+
+GCONINJE
+	G2	WAT	RATE	8650	1*	1*	1*	YES	1*	1*	1*	1*	/
+/
+
+TSTEP
+ 1 /--276 
+
+GCONINJE
+	G2	WAT	RATE	3550	1*	1*	1*	YES	1*	1*	1*	1*	/
+/
+
+TSTEP
+ 1 /--277 
+
+GCONINJE
+	G2	WAT	RATE	2200	1*	1*	1*	YES	1*	1*	1*	1*	/
+/
+
+TSTEP
+ 1 /--278 
+
+GCONINJE
+	G2	WAT	RATE	3250	1*	1*	1*	YES	1*	1*	1*	1*	/
+/
+
+TSTEP
+ 1 /--279 
+
+GCONINJE
+	G2	WAT	RATE	5300	1*	1*	1*	YES	1*	1*	1*	1*	/
+/
+
+TSTEP
+ 1 /--280 
+
+GCONINJE
+	G2	WAT	RATE	8650	1*	1*	1*	YES	1*	1*	1*	1*	/
+/
+
+TSTEP
+ 1 /--281 
+
+GCONINJE
+	G2	WAT	RATE	3550	1*	1*	1*	YES	1*	1*	1*	1*	/
+/
+
+TSTEP
+ 1 /--282 
+
+GCONINJE
+	G2	WAT	RATE	7550	1*	1*	1*	YES	1*	1*	1*	1*	/
+/
+
+TSTEP
+ 1 /--283 
+
+GCONINJE
+	G2	WAT	RATE	800	1*	1*	1*	YES	1*	1*	1*	1*	/
+/
+
+TSTEP
+ 1 /--284 
+
+GCONINJE
+	G2	WAT	RATE	850	1*	1*	1*	YES	1*	1*	1*	1*	/
+/
+
+TSTEP
+ 1 /--285 
+
+GCONINJE
+	G2	WAT	RATE	8650	1*	1*	1*	YES	1*	1*	1*	1*	/
+/
+
+TSTEP
+ 1 /--286 
+
+GCONINJE
+	G2	WAT	RATE	8650	1*	1*	1*	YES	1*	1*	1*	1*	/
+/
+
+TSTEP
+ 1 /--287 
+
+GCONINJE
+	G2	WAT	RATE	8650	1*	1*	1*	YES	1*	1*	1*	1*	/
+/
+
+TSTEP
+ 1 /--288 
+
+GCONINJE
+	G2	WAT	RATE	8650	1*	1*	1*	YES	1*	1*	1*	1*	/
+/
+
+TSTEP
+ 1 /--289 
+
+GCONINJE
+	G2	WAT	RATE	8500	1*	1*	1*	YES	1*	1*	1*	1*	/
+/
+
+TSTEP
+ 1 /--290 
+
+GCONINJE
+	G2	WAT	RATE	7500	1*	1*	1*	YES	1*	1*	1*	1*	/
+/
+
+TSTEP
+ 1 /--291 
+
+GCONINJE
+	G2	WAT	RATE	350	1*	1*	1*	YES	1*	1*	1*	1*	/
+/
+
+TSTEP
+ 1 /--292 
+
+GCONINJE
+	G2	WAT	RATE	8650	1*	1*	1*	YES	1*	1*	1*	1*	/
+/
+
+TSTEP
+ 1 /--293 
+
+GCONINJE
+	G2	WAT	RATE	8650	1*	1*	1*	YES	1*	1*	1*	1*	/
+/
+
+TSTEP
+ 1 /--294 
+
+GCONINJE
+	G2	WAT	RATE	8650	1*	1*	1*	YES	1*	1*	1*	1*	/
+/
+
+TSTEP
+ 1 /--295 
+
+GCONINJE
+	G2	WAT	RATE	1850	1*	1*	1*	YES	1*	1*	1*	1*	/
+/
+
+TSTEP
+ 1 /--296 
+
+GCONINJE
+	G2	WAT	RATE	750	1*	1*	1*	YES	1*	1*	1*	1*	/
+/
+
+TSTEP
+ 1 /--297 
+
+GCONINJE
+	G2	WAT	RATE	6850	1*	1*	1*	YES	1*	1*	1*	1*	/
+/
+
+TSTEP
+ 1 /--298 
+
+GCONINJE
+	G2	WAT	RATE	8650	1*	1*	1*	YES	1*	1*	1*	1*	/
+/
+
+TSTEP
+ 1 /--299 
+
+GCONINJE
+	G2	WAT	RATE	8650	1*	1*	1*	YES	1*	1*	1*	1*	/
+/
+
+TSTEP
+ 1 /--300 
+
+GCONINJE
+	G2	WAT	RATE	5800	1*	1*	1*	YES	1*	1*	1*	1*	/
+/
+
+TSTEP
+ 1 /--301 
+
+GCONINJE
+	G2	WAT	RATE	1350	1*	1*	1*	YES	1*	1*	1*	1*	/
+/
+
+TSTEP
+ 1 /--302 
+
+GCONINJE
+	G2	WAT	RATE	5850	1*	1*	1*	YES	1*	1*	1*	1*	/
+/
+
+TSTEP
+ 1 /--303 
+
+GCONINJE
+	G2	WAT	RATE	8650	1*	1*	1*	YES	1*	1*	1*	1*	/
+/
+
+TSTEP
+ 1 /--304 
+
+GCONINJE
+	G2	WAT	RATE	8650	1*	1*	1*	YES	1*	1*	1*	1*	/
+/
+
+TSTEP
+ 1 /--305 
+
+GCONINJE
+	G2	WAT	RATE	3300	1*	1*	1*	YES	1*	1*	1*	1*	/
+/
+
+TSTEP
+ 1 /--306 
+
+GCONINJE
+	G2	WAT	RATE	8650	1*	1*	1*	YES	1*	1*	1*	1*	/
+/
+
+TSTEP
+ 1 /--307 
+
+GCONINJE
+	G2	WAT	RATE	8650	1*	1*	1*	YES	1*	1*	1*	1*	/
+/
+
+TSTEP
+ 1 /--308 
+
+GCONINJE
+	G2	WAT	RATE	8650	1*	1*	1*	YES	1*	1*	1*	1*	/
+/
+
+TSTEP
+ 1 /--309 
+
+GCONINJE
+	G2	WAT	RATE	8650	1*	1*	1*	YES	1*	1*	1*	1*	/
+/
+
+TSTEP
+ 1 /--310 
+
+GCONINJE
+	G2	WAT	RATE	8650	1*	1*	1*	YES	1*	1*	1*	1*	/
+/
+
+TSTEP
+ 1 /--311 
+
+GCONINJE
+	G2	WAT	RATE	8650	1*	1*	1*	YES	1*	1*	1*	1*	/
+/
+
+TSTEP
+ 1 /--312 
+
+GCONINJE
+	G2	WAT	RATE	8650	1*	1*	1*	YES	1*	1*	1*	1*	/
+/
+
+TSTEP
+ 1 /--313 
+
+GCONINJE
+	G2	WAT	RATE	8650	1*	1*	1*	YES	1*	1*	1*	1*	/
+/
+
+TSTEP
+ 1 /--314 
+
+GCONINJE
+	G2	WAT	RATE	8650	1*	1*	1*	YES	1*	1*	1*	1*	/
+/
+
+TSTEP
+ 1 /--315 
+
+GCONINJE
+	G2	WAT	RATE	4950	1*	1*	1*	YES	1*	1*	1*	1*	/
+/
+
+TSTEP
+ 1 /--316 
+
+GCONINJE
+	G2	WAT	RATE	6300	1*	1*	1*	YES	1*	1*	1*	1*	/
+/
+
+TSTEP
+ 1 /--317 
+
+GCONINJE
+	G2	WAT	RATE	8650	1*	1*	1*	YES	1*	1*	1*	1*	/
+/
+
+TSTEP
+ 1 /--318 
+
+GCONINJE
+	G2	WAT	RATE	8650	1*	1*	1*	YES	1*	1*	1*	1*	/
+/
+
+TSTEP
+ 1 /--319 
+
+GCONINJE
+	G2	WAT	RATE	7850	1*	1*	1*	YES	1*	1*	1*	1*	/
+/
+
+TSTEP
+ 1 /--320 
+
+GCONINJE
+	G2	WAT	RATE	6900	1*	1*	1*	YES	1*	1*	1*	1*	/
+/
+
+TSTEP
+ 1 /--321 
+
+GCONINJE
+	G2	WAT	RATE	8650	1*	1*	1*	YES	1*	1*	1*	1*	/
+/
+
+TSTEP
+ 1 /--322 
+
+GCONINJE
+	G2	WAT	RATE	8650	1*	1*	1*	YES	1*	1*	1*	1*	/
+/
+
+TSTEP
+ 1 /--323 
+
+GCONINJE
+	G2	WAT	RATE	4550	1*	1*	1*	YES	1*	1*	1*	1*	/
+/
+
+TSTEP
+ 1 /--324 
+
+GCONINJE
+	G2	WAT	RATE	2600	1*	1*	1*	YES	1*	1*	1*	1*	/
+/
+
+TSTEP
+ 1 /--325 
+
+GCONINJE
+	G2	WAT	RATE	350	1*	1*	1*	YES	1*	1*	1*	1*	/
+/
+
+TSTEP
+ 1 /--326 
+
+GCONINJE
+	G2	WAT	RATE	2300	1*	1*	1*	YES	1*	1*	1*	1*	/
+/
+
+TSTEP
+ 1 /--327 
+
+GCONINJE
+	G2	WAT	RATE	7600	1*	1*	1*	YES	1*	1*	1*	1*	/
+/
+
+TSTEP
+ 1 /--328 
+
+GCONINJE
+	G2	WAT	RATE	7550	1*	1*	1*	YES	1*	1*	1*	1*	/
+/
+
+TSTEP
+ 1 /--329 
+
+GCONINJE
+	G2	WAT	RATE	8650	1*	1*	1*	YES	1*	1*	1*	1*	/
+/
+
+TSTEP
+ 1 /--330 
+
+GCONINJE
+	G2	WAT	RATE	8650	1*	1*	1*	YES	1*	1*	1*	1*	/
+/
+
+TSTEP
+ 1 /--331 
+
+GCONINJE
+	G2	WAT	RATE	8650	1*	1*	1*	YES	1*	1*	1*	1*	/
+/
+
+TSTEP
+ 1 /--332 
+
+GCONINJE
+	G2	WAT	RATE	8650	1*	1*	1*	YES	1*	1*	1*	1*	/
+/
+
+TSTEP
+ 1 /--333 
+
+GCONINJE
+	G2	WAT	RATE	8650	1*	1*	1*	YES	1*	1*	1*	1*	/
+/
+
+TSTEP
+ 1 /--334 
+
+GCONINJE
+	G2	WAT	RATE	8650	1*	1*	1*	YES	1*	1*	1*	1*	/
+/
+
+TSTEP
+ 1 /--335 
+
+GCONINJE
+	G2	WAT	RATE	8650	1*	1*	1*	YES	1*	1*	1*	1*	/
+/
+
+TSTEP
+ 1 /--336 
+
+GCONINJE
+	G2	WAT	RATE	6850	1*	1*	1*	YES	1*	1*	1*	1*	/
+/
+
+TSTEP
+ 1 /--337 
+
+GCONINJE
+	G2	WAT	RATE	3800	1*	1*	1*	YES	1*	1*	1*	1*	/
+/
+
+TSTEP
+ 1 /--338 
+
+GCONINJE
+	G2	WAT	RATE	2200	1*	1*	1*	YES	1*	1*	1*	1*	/
+/
+
+TSTEP
+ 1 /--339 
+
+GCONINJE
+	G2	WAT	RATE	3300	1*	1*	1*	YES	1*	1*	1*	1*	/
+/
+
+TSTEP
+ 1 /--340 
+
+GCONINJE
+	G2	WAT	RATE	8650	1*	1*	1*	YES	1*	1*	1*	1*	/
+/
+
+TSTEP
+ 1 /--341 
+
+GCONINJE
+	G2	WAT	RATE	4150	1*	1*	1*	YES	1*	1*	1*	1*	/
+/
+
+TSTEP
+ 1 /--342 
+
+GCONINJE
+	G2	WAT	RATE	8650	1*	1*	1*	YES	1*	1*	1*	1*	/
+/
+
+TSTEP
+ 1 /--343 
+
+GCONINJE
+	G2	WAT	RATE	8650	1*	1*	1*	YES	1*	1*	1*	1*	/
+/
+
+TSTEP
+ 1 /--344 
+
+GCONINJE
+	G2	WAT	RATE	8650	1*	1*	1*	YES	1*	1*	1*	1*	/
+/
+
+TSTEP
+ 1 /--345 
+
+GCONINJE
+	G2	WAT	RATE	8650	1*	1*	1*	YES	1*	1*	1*	1*	/
+/
+
+TSTEP
+ 1 /--346 
+
+GCONINJE
+	G2	WAT	RATE	8650	1*	1*	1*	YES	1*	1*	1*	1*	/
+/
+
+TSTEP
+ 1 /--347 
+
+GCONINJE
+	G2	WAT	RATE	8650	1*	1*	1*	YES	1*	1*	1*	1*	/
+/
+
+TSTEP
+ 1 /--348 
+
+GCONINJE
+	G2	WAT	RATE	8650	1*	1*	1*	YES	1*	1*	1*	1*	/
+/
+
+TSTEP
+ 1 /--349 
+
+GCONINJE
+	G2	WAT	RATE	7450	1*	1*	1*	YES	1*	1*	1*	1*	/
+/
+
+TSTEP
+ 1 /--350 
+
+GCONINJE
+	G2	WAT	RATE	8650	1*	1*	1*	YES	1*	1*	1*	1*	/
+/
+
+TSTEP
+ 1 /--351 
+
+GCONINJE
+	G2	WAT	RATE	8650	1*	1*	1*	YES	1*	1*	1*	1*	/
+/
+
+TSTEP
+ 1 /--352 
+
+GCONINJE
+	G2	WAT	RATE	8650	1*	1*	1*	YES	1*	1*	1*	1*	/
+/
+
+TSTEP
+ 1 /--353 
+
+GCONINJE
+	G2	WAT	RATE	8650	1*	1*	1*	YES	1*	1*	1*	1*	/
+/
+
+TSTEP
+ 1 /--354 
+
+GCONINJE
+	G2	WAT	RATE	8650	1*	1*	1*	YES	1*	1*	1*	1*	/
+/
+
+TSTEP
+ 1 /--355 
+
+GCONINJE
+	G2	WAT	RATE	8650	1*	1*	1*	YES	1*	1*	1*	1*	/
+/
+
+TSTEP
+ 1 /--356 
+
+GCONINJE
+	G2	WAT	RATE	8650	1*	1*	1*	YES	1*	1*	1*	1*	/
+/
+
+TSTEP
+ 1 /--357 
+
+GCONINJE
+	G2	WAT	RATE	8650	1*	1*	1*	YES	1*	1*	1*	1*	/
+/
+
+TSTEP
+ 1 /--358 
+
+GCONINJE
+	G2	WAT	RATE	8650	1*	1*	1*	YES	1*	1*	1*	1*	/
+/
+
+TSTEP
+ 1 /--359 
+
+GCONINJE
+	G2	WAT	RATE	8650	1*	1*	1*	YES	1*	1*	1*	1*	/
+/
+
+TSTEP
+ 1 /--360 
+
+GCONINJE
+	G2	WAT	RATE	8650	1*	1*	1*	YES	1*	1*	1*	1*	/
+/
+
+TSTEP
+ 1 /--361 
+
+GCONINJE
+	G2	WAT	RATE	8650	1*	1*	1*	YES	1*	1*	1*	1*	/
+/
+
+TSTEP
+ 1 /--362 
+
+GCONINJE
+	G2	WAT	RATE	4500	1*	1*	1*	YES	1*	1*	1*	1*	/
+/
+
+TSTEP
+ 1 /--363 
+
+GCONINJE
+	G2	WAT	RATE	8650	1*	1*	1*	YES	1*	1*	1*	1*	/
+/
+
+TSTEP
+ 1 /--364 
+
+GCONINJE
+	G2	WAT	RATE	8650	1*	1*	1*	YES	1*	1*	1*	1*	/
+/
+
+TSTEP
+ 1 /--365 
+
+GCONINJE
+	G2	WAT	RATE	3450	1*	1*	1*	YES	1*	1*	1*	1*	/
+/
+
+TSTEP
+ 1 /--366 
+
+GCONINJE
+	G2	WAT	RATE	8650	1*	1*	1*	YES	1*	1*	1*	1*	/
+/
+
+TSTEP
+ 1 /--367 
+
+GCONINJE
+	G2	WAT	RATE	8650	1*	1*	1*	YES	1*	1*	1*	1*	/
+/
+
+TSTEP
+ 1 /--368 
+
+GCONINJE
+	G2	WAT	RATE	7500	1*	1*	1*	YES	1*	1*	1*	1*	/
+/
+
+TSTEP
+ 1 /--369 
+
+GCONINJE
+	G2	WAT	RATE	1300	1*	1*	1*	YES	1*	1*	1*	1*	/
+/
+
+TSTEP
+ 1 /--370 
+
+GCONINJE
+	G2	WAT	RATE	150	1*	1*	1*	YES	1*	1*	1*	1*	/
+/
+
+TSTEP
+ 1 /--371 
+
+GCONINJE
+	G2	WAT	RATE	900	1*	1*	1*	YES	1*	1*	1*	1*	/
+/
+
+TSTEP
+ 1 /--372 
+
+GCONINJE
+	G2	WAT	RATE	5400	1*	1*	1*	YES	1*	1*	1*	1*	/
+/
+
+TSTEP
+ 1 /--373 
+
+GCONINJE
+	G2	WAT	RATE	8650	1*	1*	1*	YES	1*	1*	1*	1*	/
+/
+
+TSTEP
+ 1 /--374 
+
+GCONINJE
+	G2	WAT	RATE	8650	1*	1*	1*	YES	1*	1*	1*	1*	/
+/
+
+TSTEP
+ 1 /--375 
+
+GCONINJE
+	G2	WAT	RATE	8650	1*	1*	1*	YES	1*	1*	1*	1*	/
+/
+
+TSTEP
+ 1 /--376 
+
+GCONINJE
+	G2	WAT	RATE	8650	1*	1*	1*	YES	1*	1*	1*	1*	/
+/
+
+TSTEP
+ 1 /--377 
+
+GCONINJE
+	G2	WAT	RATE	8650	1*	1*	1*	YES	1*	1*	1*	1*	/
+/
+
+TSTEP
+ 1 /--378 
+
+GCONINJE
+	G2	WAT	RATE	8650	1*	1*	1*	YES	1*	1*	1*	1*	/
+/
+
+TSTEP
+ 1 /--379 
+
+GCONINJE
+	G2	WAT	RATE	8000	1*	1*	1*	YES	1*	1*	1*	1*	/
+/
+
+TSTEP
+ 1 /--380 
+
+GCONINJE
+	G2	WAT	RATE	6750	1*	1*	1*	YES	1*	1*	1*	1*	/
+/
+
+TSTEP
+ 1 /--381 
+
+GCONINJE
+	G2	WAT	RATE	5300	1*	1*	1*	YES	1*	1*	1*	1*	/
+/
+
+TSTEP
+ 1 /--382 
+
+GCONINJE
+	G2	WAT	RATE	8650	1*	1*	1*	YES	1*	1*	1*	1*	/
+/
+
+TSTEP
+ 1 /--383 
+
+GCONINJE
+	G2	WAT	RATE	8650	1*	1*	1*	YES	1*	1*	1*	1*	/
+/
+
+TSTEP
+ 1 /--384 
+
+GCONINJE
+	G2	WAT	RATE	8650	1*	1*	1*	YES	1*	1*	1*	1*	/
+/
+
+TSTEP
+ 1 /--385 
+
+GCONINJE
+	G2	WAT	RATE	8650	1*	1*	1*	YES	1*	1*	1*	1*	/
+/
+
+TSTEP
+ 1 /--386 
+
+GCONINJE
+	G2	WAT	RATE	8650	1*	1*	1*	YES	1*	1*	1*	1*	/
+/
+
+TSTEP
+ 1 /--387 
+
+GCONINJE
+	G2	WAT	RATE	8650	1*	1*	1*	YES	1*	1*	1*	1*	/
+/
+
+TSTEP
+ 1 /--388 
+
+GCONINJE
+	G2	WAT	RATE	8650	1*	1*	1*	YES	1*	1*	1*	1*	/
+/
+
+TSTEP
+ 1 /--389 
+
+GCONINJE
+	G2	WAT	RATE	2900	1*	1*	1*	YES	1*	1*	1*	1*	/
+/
+
+TSTEP
+ 1 /--390 
+
+GCONINJE
+	G2	WAT	RATE	6800	1*	1*	1*	YES	1*	1*	1*	1*	/
+/
+
+TSTEP
+ 1 /--391 
+
+GCONINJE
+	G2	WAT	RATE	6450	1*	1*	1*	YES	1*	1*	1*	1*	/
+/
+
+TSTEP
+ 1 /--392 
+
+GCONINJE
+	G2	WAT	RATE	8650	1*	1*	1*	YES	1*	1*	1*	1*	/
+/
+
+TSTEP
+ 1 /--393 
+
+GCONINJE
+	G2	WAT	RATE	8650	1*	1*	1*	YES	1*	1*	1*	1*	/
+/
+
+TSTEP
+ 1 /--394 
+
+GCONINJE
+	G2	WAT	RATE	8650	1*	1*	1*	YES	1*	1*	1*	1*	/
+/
+
+TSTEP
+ 1 /--395 
+
+GCONINJE
+	G2	WAT	RATE	8650	1*	1*	1*	YES	1*	1*	1*	1*	/
+/
+
+TSTEP
+ 1 /--396 
+
+GCONINJE
+	G2	WAT	RATE	8650	1*	1*	1*	YES	1*	1*	1*	1*	/
+/
+
+TSTEP
+ 1 /--397 
+
+GCONINJE
+	G2	WAT	RATE	8650	1*	1*	1*	YES	1*	1*	1*	1*	/
+/
+
+TSTEP
+ 1 /--398 
+
+GCONINJE
+	G2	WAT	RATE	400	1*	1*	1*	YES	1*	1*	1*	1*	/
+/
+
+TSTEP
+ 1 /--399 
+
+GCONINJE
+	G2	WAT	RATE	7450	1*	1*	1*	YES	1*	1*	1*	1*	/
+/
+
+TSTEP
+ 1 /--400 
+
+GCONINJE
+	G2	WAT	RATE	8650	1*	1*	1*	YES	1*	1*	1*	1*	/
+/
+
+TSTEP
+ 1 /--401 
+
+GCONINJE
+	G2	WAT	RATE	8650	1*	1*	1*	YES	1*	1*	1*	1*	/
+/
+
+TSTEP
+ 1 /--402 
+
+GCONINJE
+	G2	WAT	RATE	5850	1*	1*	1*	YES	1*	1*	1*	1*	/
+/
+
+TSTEP
+ 1 /--403 
+
+GCONINJE
+	G2	WAT	RATE	8650	1*	1*	1*	YES	1*	1*	1*	1*	/
+/
+
+TSTEP
+ 1 /--404 
+
+GCONINJE
+	G2	WAT	RATE	8650	1*	1*	1*	YES	1*	1*	1*	1*	/
+/
+
+TSTEP
+ 1 /--405 
+
+GCONINJE
+	G2	WAT	RATE	8650	1*	1*	1*	YES	1*	1*	1*	1*	/
+/
+
+TSTEP
+ 1 /--406 
+
+GCONINJE
+	G2	WAT	RATE	8650	1*	1*	1*	YES	1*	1*	1*	1*	/
+/
+
+TSTEP
+ 1 /--407 
+
+GCONINJE
+	G2	WAT	RATE	7150	1*	1*	1*	YES	1*	1*	1*	1*	/
+/
+
+TSTEP
+ 1 /--408 
+
+GCONINJE
+	G2	WAT	RATE	4500	1*	1*	1*	YES	1*	1*	1*	1*	/
+/
+
+TSTEP
+ 1 /--409 
+
+GCONINJE
+	G2	WAT	RATE	2050	1*	1*	1*	YES	1*	1*	1*	1*	/
+/
+
+TSTEP
+ 1 /--410 
+
+GCONINJE
+	G2	WAT	RATE	6700	1*	1*	1*	YES	1*	1*	1*	1*	/
+/
+
+TSTEP
+ 1 /--411 
+
+GCONINJE
+	G2	WAT	RATE	7050	1*	1*	1*	YES	1*	1*	1*	1*	/
+/
+
+TSTEP
+ 1 /--412 
+
+GCONINJE
+	G2	WAT	RATE	2850	1*	1*	1*	YES	1*	1*	1*	1*	/
+/
+
+TSTEP
+ 1 /--413 
+
+GCONINJE
+	G2	WAT	RATE	1850	1*	1*	1*	YES	1*	1*	1*	1*	/
+/
+
+TSTEP
+ 1 /--414 
+
+GCONINJE
+	G2	WAT	RATE	1750	1*	1*	1*	YES	1*	1*	1*	1*	/
+/
+
+TSTEP
+ 1 /--415 
+
+GCONINJE
+	G2	WAT	RATE	3850	1*	1*	1*	YES	1*	1*	1*	1*	/
+/
+
+TSTEP
+ 1 /--416 
+
+GCONINJE
+	G2	WAT	RATE	1350	1*	1*	1*	YES	1*	1*	1*	1*	/
+/
+
+TSTEP
+ 1 /--417 
+
+GCONINJE
+	G2	WAT	RATE	8650	1*	1*	1*	YES	1*	1*	1*	1*	/
+/
+
+TSTEP
+ 1 /--418 
+
+GCONINJE
+	G2	WAT	RATE	450	1*	1*	1*	YES	1*	1*	1*	1*	/
+/
+
+TSTEP
+ 1 /--419 
+
+GCONINJE
+	G2	WAT	RATE	1550	1*	1*	1*	YES	1*	1*	1*	1*	/
+/
+
+TSTEP
+ 1 /--420 
+
+GCONINJE
+	G2	WAT	RATE	8650	1*	1*	1*	YES	1*	1*	1*	1*	/
+/
+
+TSTEP
+ 1 /--421 
+
+GCONINJE
+	G2	WAT	RATE	8650	1*	1*	1*	YES	1*	1*	1*	1*	/
+/
+
+TSTEP
+ 1 /--422 
+
+GCONINJE
+	G2	WAT	RATE	4750	1*	1*	1*	YES	1*	1*	1*	1*	/
+/
+
+TSTEP
+ 1 /--423 
+
+GCONINJE
+	G2	WAT	RATE	750	1*	1*	1*	YES	1*	1*	1*	1*	/
+/
+
+TSTEP
+ 1 /--424 
+
+GCONINJE
+	G2	WAT	RATE	8000	1*	1*	1*	YES	1*	1*	1*	1*	/
+/
+
+TSTEP
+ 1 /--425 
+
+GCONINJE
+	G2	WAT	RATE	8650	1*	1*	1*	YES	1*	1*	1*	1*	/
+/
+
+TSTEP
+ 1 /--426 
+
+GCONINJE
+	G2	WAT	RATE	4200	1*	1*	1*	YES	1*	1*	1*	1*	/
+/
+
+TSTEP
+ 1 /--427 
+
+GCONINJE
+	G2	WAT	RATE	750	1*	1*	1*	YES	1*	1*	1*	1*	/
+/
+
+TSTEP
+ 1 /--428 
+
+GCONINJE
+	G2	WAT	RATE	500	1*	1*	1*	YES	1*	1*	1*	1*	/
+/
+
+TSTEP
+ 1 /--429 
+
+GCONINJE
+	G2	WAT	RATE	2900	1*	1*	1*	YES	1*	1*	1*	1*	/
+/
+
+TSTEP
+ 1 /--430 
+
+GCONINJE
+	G2	WAT	RATE	1300	1*	1*	1*	YES	1*	1*	1*	1*	/
+/
+
+TSTEP
+ 1 /--431 
+
+GCONINJE
+	G2	WAT	RATE	2400	1*	1*	1*	YES	1*	1*	1*	1*	/
+/
+
+TSTEP
+ 1 /--432 
+
+GCONINJE
+	G2	WAT	RATE	2300	1*	1*	1*	YES	1*	1*	1*	1*	/
+/
+
+TSTEP
+ 1 /--433 
+
+GCONINJE
+	G2	WAT	RATE	6200	1*	1*	1*	YES	1*	1*	1*	1*	/
+/
+
+TSTEP
+ 1 /--434 
+
+GCONINJE
+	G2	WAT	RATE	50	1*	1*	1*	YES	1*	1*	1*	1*	/
+/
+
+TSTEP
+ 1 /--435 
+
+GCONINJE
+	G2	WAT	RATE	1050	1*	1*	1*	YES	1*	1*	1*	1*	/
+/
+
+TSTEP
+ 1 /--436 
+
+GCONINJE
+	G2	WAT	RATE	3850	1*	1*	1*	YES	1*	1*	1*	1*	/
+/
+
+TSTEP
+ 1 /--437 
+
+GCONINJE
+	G2	WAT	RATE	1150	1*	1*	1*	YES	1*	1*	1*	1*	/
+/
+
+TSTEP
+ 1 /--438 
+
+GCONINJE
+	G2	WAT	RATE	0	1*	1*	1*	YES	1*	1*	1*	1*	/
+/
+
+TSTEP
+ 1 /--439 
+
+GCONINJE
+	G2	WAT	RATE	0	1*	1*	1*	YES	1*	1*	1*	1*	/
+/
+
+TSTEP
+ 1 /--440 
+
+GCONINJE
+	G2	WAT	RATE	6150	1*	1*	1*	YES	1*	1*	1*	1*	/
+/
+
+TSTEP
+ 1 /--441 
+
+GCONINJE
+	G2	WAT	RATE	8650	1*	1*	1*	YES	1*	1*	1*	1*	/
+/
+
+TSTEP
+ 1 /--442 
+
+GCONINJE
+	G2	WAT	RATE	8650	1*	1*	1*	YES	1*	1*	1*	1*	/
+/
+
+TSTEP
+ 1 /--443 
+
+GCONINJE
+	G2	WAT	RATE	8650	1*	1*	1*	YES	1*	1*	1*	1*	/
+/
+
+TSTEP
+ 1 /--444 
+
+GCONINJE
+	G2	WAT	RATE	4800	1*	1*	1*	YES	1*	1*	1*	1*	/
+/
+
+TSTEP
+ 1 /--445 
+
+GCONINJE
+	G2	WAT	RATE	5700	1*	1*	1*	YES	1*	1*	1*	1*	/
+/
+
+TSTEP
+ 1 /--446 
+
+GCONINJE
+	G2	WAT	RATE	450	1*	1*	1*	YES	1*	1*	1*	1*	/
+/
+
+TSTEP
+ 1 /--447 
+
+GCONINJE
+	G2	WAT	RATE	1450	1*	1*	1*	YES	1*	1*	1*	1*	/
+/
+
+TSTEP
+ 1 /--448 
+
+GCONINJE
+	G2	WAT	RATE	2100	1*	1*	1*	YES	1*	1*	1*	1*	/
+/
+
+TSTEP
+ 1 /--449 
+
+GCONINJE
+	G2	WAT	RATE	700	1*	1*	1*	YES	1*	1*	1*	1*	/
+/
+
+TSTEP
+ 1 /--450 
+
+GCONINJE
+	G2	WAT	RATE	550	1*	1*	1*	YES	1*	1*	1*	1*	/
+/
+
+TSTEP
+ 1 /--451 
+
+GCONINJE
+	G2	WAT	RATE	4850	1*	1*	1*	YES	1*	1*	1*	1*	/
+/
+
+TSTEP
+ 1 /--452 
+
+GCONINJE
+	G2	WAT	RATE	5600	1*	1*	1*	YES	1*	1*	1*	1*	/
+/
+
+TSTEP
+ 1 /--453 
+
+GCONINJE
+	G2	WAT	RATE	6200	1*	1*	1*	YES	1*	1*	1*	1*	/
+/
+
+TSTEP
+ 1 /--454 
+
+GCONINJE
+	G2	WAT	RATE	1750	1*	1*	1*	YES	1*	1*	1*	1*	/
+/
+
+TSTEP
+ 1 /--455 
+
+GCONINJE
+	G2	WAT	RATE	1300	1*	1*	1*	YES	1*	1*	1*	1*	/
+/
+
+TSTEP
+ 1 /--456 
+
+GCONINJE
+	G2	WAT	RATE	3450	1*	1*	1*	YES	1*	1*	1*	1*	/
+/
+
+TSTEP
+ 1 /--457 
+
+GCONINJE
+	G2	WAT	RATE	8650	1*	1*	1*	YES	1*	1*	1*	1*	/
+/
+
+TSTEP
+ 1 /--458 
+
+GCONINJE
+	G2	WAT	RATE	8650	1*	1*	1*	YES	1*	1*	1*	1*	/
+/
+
+TSTEP
+ 1 /--459 
+
+GCONINJE
+	G2	WAT	RATE	1950	1*	1*	1*	YES	1*	1*	1*	1*	/
+/
+
+TSTEP
+ 1 /--460 
+
+GCONINJE
+	G2	WAT	RATE	3950	1*	1*	1*	YES	1*	1*	1*	1*	/
+/
+
+TSTEP
+ 1 /--461 
+
+GCONINJE
+	G2	WAT	RATE	2050	1*	1*	1*	YES	1*	1*	1*	1*	/
+/
+
+TSTEP
+ 1 /--462 
+
+GCONINJE
+	G2	WAT	RATE	800	1*	1*	1*	YES	1*	1*	1*	1*	/
+/
+
+TSTEP
+ 1 /--463 
+
+GCONINJE
+	G2	WAT	RATE	950	1*	1*	1*	YES	1*	1*	1*	1*	/
+/
+
+TSTEP
+ 1 /--464 
+
+GCONINJE
+	G2	WAT	RATE	2450	1*	1*	1*	YES	1*	1*	1*	1*	/
+/
+
+TSTEP
+ 1 /--465 
+
+GCONINJE
+	G2	WAT	RATE	1700	1*	1*	1*	YES	1*	1*	1*	1*	/
+/
+
+TSTEP
+ 1 /--466 
+
+GCONINJE
+	G2	WAT	RATE	4650	1*	1*	1*	YES	1*	1*	1*	1*	/
+/
+
+TSTEP
+ 1 /--467 
+
+GCONINJE
+	G2	WAT	RATE	4550	1*	1*	1*	YES	1*	1*	1*	1*	/
+/
+
+TSTEP
+ 1 /--468 
+
+GCONINJE
+	G2	WAT	RATE	8650	1*	1*	1*	YES	1*	1*	1*	1*	/
+/
+
+TSTEP
+ 1 /--469 
+
+GCONINJE
+	G2	WAT	RATE	8650	1*	1*	1*	YES	1*	1*	1*	1*	/
+/
+
+TSTEP
+ 1 /--470 
+
+GCONINJE
+	G2	WAT	RATE	6300	1*	1*	1*	YES	1*	1*	1*	1*	/
+/
+
+TSTEP
+ 1 /--471 
+
+GCONINJE
+	G2	WAT	RATE	3150	1*	1*	1*	YES	1*	1*	1*	1*	/
+/
+
+TSTEP
+ 1 /--472 
+
+GCONINJE
+	G2	WAT	RATE	1800	1*	1*	1*	YES	1*	1*	1*	1*	/
+/
+
+TSTEP
+ 1 /--473 
+
+GCONINJE
+	G2	WAT	RATE	6850	1*	1*	1*	YES	1*	1*	1*	1*	/
+/
+
+TSTEP
+ 1 /--474 
+
+GCONINJE
+	G2	WAT	RATE	100	1*	1*	1*	YES	1*	1*	1*	1*	/
+/
+
+TSTEP
+ 1 /--475 
+
+GCONINJE
+	G2	WAT	RATE	800	1*	1*	1*	YES	1*	1*	1*	1*	/
+/
+
+TSTEP
+ 1 /--476 
+
+GCONINJE
+	G2	WAT	RATE	8650	1*	1*	1*	YES	1*	1*	1*	1*	/
+/
+
+TSTEP
+ 1 /--477 
+
+GCONINJE
+	G2	WAT	RATE	8650	1*	1*	1*	YES	1*	1*	1*	1*	/
+/
+
+TSTEP
+ 1 /--478 
+
+GCONINJE
+	G2	WAT	RATE	5050	1*	1*	1*	YES	1*	1*	1*	1*	/
+/
+
+TSTEP
+ 1 /--479 
+
+GCONINJE
+	G2	WAT	RATE	7550	1*	1*	1*	YES	1*	1*	1*	1*	/
+/
+
+TSTEP
+ 1 /--480 
+
+GCONINJE
+	G2	WAT	RATE	8650	1*	1*	1*	YES	1*	1*	1*	1*	/
+/
+
+TSTEP
+ 1 /--481 
+
+GCONINJE
+	G2	WAT	RATE	7850	1*	1*	1*	YES	1*	1*	1*	1*	/
+/
+
+TSTEP
+ 1 /--482 
+
+GCONINJE
+	G2	WAT	RATE	1350	1*	1*	1*	YES	1*	1*	1*	1*	/
+/
+
+TSTEP
+ 1 /--483 
+
+GCONINJE
+	G2	WAT	RATE	4200	1*	1*	1*	YES	1*	1*	1*	1*	/
+/
+
+TSTEP
+ 1 /--484 
+
+GCONINJE
+	G2	WAT	RATE	3600	1*	1*	1*	YES	1*	1*	1*	1*	/
+/
+
+TSTEP
+ 1 /--485 
+
+GCONINJE
+	G2	WAT	RATE	6050	1*	1*	1*	YES	1*	1*	1*	1*	/
+/
+
+TSTEP
+ 1 /--486 
+
+GCONINJE
+	G2	WAT	RATE	2550	1*	1*	1*	YES	1*	1*	1*	1*	/
+/
+
+TSTEP
+ 1 /--487 
+
+GCONINJE
+	G2	WAT	RATE	5300	1*	1*	1*	YES	1*	1*	1*	1*	/
+/
+
+TSTEP
+ 1 /--488 
+
+GCONINJE
+	G2	WAT	RATE	2800	1*	1*	1*	YES	1*	1*	1*	1*	/
+/
+
+TSTEP
+ 1 /--489 
+
+GCONINJE
+	G2	WAT	RATE	2150	1*	1*	1*	YES	1*	1*	1*	1*	/
+/
+
+TSTEP
+ 1 /--490 
+
+GCONINJE
+	G2	WAT	RATE	2900	1*	1*	1*	YES	1*	1*	1*	1*	/
+/
+
+TSTEP
+ 1 /--491 
+
+GCONINJE
+	G2	WAT	RATE	800	1*	1*	1*	YES	1*	1*	1*	1*	/
+/
+
+TSTEP
+ 1 /--492 
+
+GCONINJE
+	G2	WAT	RATE	3050	1*	1*	1*	YES	1*	1*	1*	1*	/
+/
+
+TSTEP
+ 1 /--493 
+
+GCONINJE
+	G2	WAT	RATE	2600	1*	1*	1*	YES	1*	1*	1*	1*	/
+/
+
+TSTEP
+ 1 /--494 
+
+GCONINJE
+	G2	WAT	RATE	400	1*	1*	1*	YES	1*	1*	1*	1*	/
+/
+
+TSTEP
+ 1 /--495 
+
+GCONINJE
+	G2	WAT	RATE	2450	1*	1*	1*	YES	1*	1*	1*	1*	/
+/
+
+TSTEP
+ 1 /--496 
+
+GCONINJE
+	G2	WAT	RATE	8650	1*	1*	1*	YES	1*	1*	1*	1*	/
+/
+
+TSTEP
+ 1 /--497 
+
+GCONINJE
+	G2	WAT	RATE	6600	1*	1*	1*	YES	1*	1*	1*	1*	/
+/
+
+TSTEP
+ 1 /--498 
+
+GCONINJE
+	G2	WAT	RATE	8650	1*	1*	1*	YES	1*	1*	1*	1*	/
+/
+
+TSTEP
+ 1 /--499 
+
+GCONINJE
+	G2	WAT	RATE	3950	1*	1*	1*	YES	1*	1*	1*	1*	/
+/
+
+TSTEP
+ 1 /--500 
+
+GCONINJE
+	G2	WAT	RATE	8650	1*	1*	1*	YES	1*	1*	1*	1*	/
+/
+
+TSTEP
+ 1 /--501 
+
+GCONINJE
+	G2	WAT	RATE	8650	1*	1*	1*	YES	1*	1*	1*	1*	/
+/
+
+TSTEP
+ 1 /--502 
+
+GCONINJE
+	G2	WAT	RATE	3850	1*	1*	1*	YES	1*	1*	1*	1*	/
+/
+
+TSTEP
+ 1 /--503 
+
+GCONINJE
+	G2	WAT	RATE	1450	1*	1*	1*	YES	1*	1*	1*	1*	/
+/
+
+TSTEP
+ 1 /--504 
+
+GCONINJE
+	G2	WAT	RATE	1600	1*	1*	1*	YES	1*	1*	1*	1*	/
+/
+
+TSTEP
+ 1 /--505 
+
+GCONINJE
+	G2	WAT	RATE	1050	1*	1*	1*	YES	1*	1*	1*	1*	/
+/
+
+TSTEP
+ 1 /--506 
+
+GCONINJE
+	G2	WAT	RATE	1950	1*	1*	1*	YES	1*	1*	1*	1*	/
+/
+
+TSTEP
+ 1 /--507 
+
+GCONINJE
+	G2	WAT	RATE	2300	1*	1*	1*	YES	1*	1*	1*	1*	/
+/
+
+TSTEP
+ 1 /--508 
+
+GCONINJE
+	G2	WAT	RATE	450	1*	1*	1*	YES	1*	1*	1*	1*	/
+/
+
+TSTEP
+ 1 /--509 
+
+GCONINJE
+	G2	WAT	RATE	500	1*	1*	1*	YES	1*	1*	1*	1*	/
+/
+
+TSTEP
+ 1 /--510 
+
+GCONINJE
+	G2	WAT	RATE	1550	1*	1*	1*	YES	1*	1*	1*	1*	/
+/
+
+TSTEP
+ 1 /--511 
+
+GCONINJE
+	G2	WAT	RATE	8650	1*	1*	1*	YES	1*	1*	1*	1*	/
+/
+
+TSTEP
+ 1 /--512 
+
+GCONINJE
+	G2	WAT	RATE	8100	1*	1*	1*	YES	1*	1*	1*	1*	/
+/
+
+TSTEP
+ 1 /--513 
+
+GCONINJE
+	G2	WAT	RATE	3750	1*	1*	1*	YES	1*	1*	1*	1*	/
+/
+
+TSTEP
+ 1 /--514 
+
+GCONINJE
+	G2	WAT	RATE	6900	1*	1*	1*	YES	1*	1*	1*	1*	/
+/
+
+TSTEP
+ 1 /--515 
+
+GCONINJE
+	G2	WAT	RATE	5600	1*	1*	1*	YES	1*	1*	1*	1*	/
+/
+
+TSTEP
+ 1 /--516 
+
+GCONINJE
+	G2	WAT	RATE	1950	1*	1*	1*	YES	1*	1*	1*	1*	/
+/
+
+TSTEP
+ 1 /--517 
+
+GCONINJE
+	G2	WAT	RATE	8650	1*	1*	1*	YES	1*	1*	1*	1*	/
+/
+
+TSTEP
+ 1 /--518 
+
+GCONINJE
+	G2	WAT	RATE	8650	1*	1*	1*	YES	1*	1*	1*	1*	/
+/
+
+TSTEP
+ 1 /--519 
+
+GCONINJE
+	G2	WAT	RATE	8650	1*	1*	1*	YES	1*	1*	1*	1*	/
+/
+
+TSTEP
+ 1 /--520 
+
+GCONINJE
+	G2	WAT	RATE	550	1*	1*	1*	YES	1*	1*	1*	1*	/
+/
+
+TSTEP
+ 1 /--521 
+
+GCONINJE
+	G2	WAT	RATE	950	1*	1*	1*	YES	1*	1*	1*	1*	/
+/
+
+TSTEP
+ 1 /--522 
+
+GCONINJE
+	G2	WAT	RATE	3250	1*	1*	1*	YES	1*	1*	1*	1*	/
+/
+
+TSTEP
+ 1 /--523 
+
+GCONINJE
+	G2	WAT	RATE	8650	1*	1*	1*	YES	1*	1*	1*	1*	/
+/
+
+TSTEP
+ 1 /--524 
+
+GCONINJE
+	G2	WAT	RATE	8650	1*	1*	1*	YES	1*	1*	1*	1*	/
+/
+
+TSTEP
+ 1 /--525 
+
+GCONINJE
+	G2	WAT	RATE	2000	1*	1*	1*	YES	1*	1*	1*	1*	/
+/
+
+TSTEP
+ 1 /--526 
+
+GCONINJE
+	G2	WAT	RATE	1650	1*	1*	1*	YES	1*	1*	1*	1*	/
+/
+
+TSTEP
+ 1 /--527 
+
+GCONINJE
+	G2	WAT	RATE	450	1*	1*	1*	YES	1*	1*	1*	1*	/
+/
+
+TSTEP
+ 1 /--528 
+
+GCONINJE
+	G2	WAT	RATE	8650	1*	1*	1*	YES	1*	1*	1*	1*	/
+/
+
+TSTEP
+ 1 /--529 
+
+GCONINJE
+	G2	WAT	RATE	8650	1*	1*	1*	YES	1*	1*	1*	1*	/
+/
+
+TSTEP
+ 1 /--530 
+
+GCONINJE
+	G2	WAT	RATE	8650	1*	1*	1*	YES	1*	1*	1*	1*	/
+/
+
+TSTEP
+ 1 /--531 
+
+GCONINJE
+	G2	WAT	RATE	6050	1*	1*	1*	YES	1*	1*	1*	1*	/
+/
+
+TSTEP
+ 1 /--532 
+
+GCONINJE
+	G2	WAT	RATE	1000	1*	1*	1*	YES	1*	1*	1*	1*	/
+/
+
+TSTEP
+ 1 /--533 
+
+GCONINJE
+	G2	WAT	RATE	1100	1*	1*	1*	YES	1*	1*	1*	1*	/
+/
+
+TSTEP
+ 1 /--534 
+
+GCONINJE
+	G2	WAT	RATE	1200	1*	1*	1*	YES	1*	1*	1*	1*	/
+/
+
+TSTEP
+ 1 /--535 
+
+GCONINJE
+	G2	WAT	RATE	550	1*	1*	1*	YES	1*	1*	1*	1*	/
+/
+
+TSTEP
+ 1 /--536 
+
+GCONINJE
+	G2	WAT	RATE	2700	1*	1*	1*	YES	1*	1*	1*	1*	/
+/
+
+TSTEP
+ 1 /--537 
+
+GCONINJE
+	G2	WAT	RATE	200	1*	1*	1*	YES	1*	1*	1*	1*	/
+/
+
+TSTEP
+ 1 /--538 
+
+GCONINJE
+	G2	WAT	RATE	5650	1*	1*	1*	YES	1*	1*	1*	1*	/
+/
+
+TSTEP
+ 1 /--539 
+
+GCONINJE
+	G2	WAT	RATE	950	1*	1*	1*	YES	1*	1*	1*	1*	/
+/
+
+TSTEP
+ 1 /--540 
+
+GCONINJE
+	G2	WAT	RATE	1950	1*	1*	1*	YES	1*	1*	1*	1*	/
+/
+
+TSTEP
+ 1 /--541 
+
+GCONINJE
+	G2	WAT	RATE	300	1*	1*	1*	YES	1*	1*	1*	1*	/
+/
+
+TSTEP
+ 1 /--542 
+
+GCONINJE
+	G2	WAT	RATE	1800	1*	1*	1*	YES	1*	1*	1*	1*	/
+/
+
+TSTEP
+ 1 /--543 
+
+GCONINJE
+	G2	WAT	RATE	0	1*	1*	1*	YES	1*	1*	1*	1*	/
+/
+
+TSTEP
+ 1 /--544 
+
+GCONINJE
+	G2	WAT	RATE	0	1*	1*	1*	YES	1*	1*	1*	1*	/
+/
+
+TSTEP
+ 1 /--545 
+
+GCONINJE
+	G2	WAT	RATE	500	1*	1*	1*	YES	1*	1*	1*	1*	/
+/
+
+TSTEP
+ 1 /--546 
+
+GCONINJE
+	G2	WAT	RATE	750	1*	1*	1*	YES	1*	1*	1*	1*	/
+/
+
+TSTEP
+ 1 /--547 
+
+GCONINJE
+	G2	WAT	RATE	1250	1*	1*	1*	YES	1*	1*	1*	1*	/
+/
+
+TSTEP
+ 1 /--548 
+
+GCONINJE
+	G2	WAT	RATE	0	1*	1*	1*	YES	1*	1*	1*	1*	/
+/
+
+TSTEP
+ 1 /--549 
+
+GCONINJE
+	G2	WAT	RATE	1650	1*	1*	1*	YES	1*	1*	1*	1*	/
+/
+
+TSTEP
+ 1 /--550 
+
+GCONINJE
+	G2	WAT	RATE	550	1*	1*	1*	YES	1*	1*	1*	1*	/
+/
+
+TSTEP
+ 1 /--551 
+
+GCONINJE
+	G2	WAT	RATE	1850	1*	1*	1*	YES	1*	1*	1*	1*	/
+/
+
+TSTEP
+ 1 /--552 
+
+GCONINJE
+	G2	WAT	RATE	450	1*	1*	1*	YES	1*	1*	1*	1*	/
+/
+
+TSTEP
+ 1 /--553 
+
+GCONINJE
+	G2	WAT	RATE	750	1*	1*	1*	YES	1*	1*	1*	1*	/
+/
+
+TSTEP
+ 1 /--554 
+
+GCONINJE
+	G2	WAT	RATE	1150	1*	1*	1*	YES	1*	1*	1*	1*	/
+/
+
+TSTEP
+ 1 /--555 
+
+GCONINJE
+	G2	WAT	RATE	8250	1*	1*	1*	YES	1*	1*	1*	1*	/
+/
+
+TSTEP
+ 1 /--556 
+
+GCONINJE
+	G2	WAT	RATE	7100	1*	1*	1*	YES	1*	1*	1*	1*	/
+/
+
+TSTEP
+ 1 /--557 
+
+GCONINJE
+	G2	WAT	RATE	8650	1*	1*	1*	YES	1*	1*	1*	1*	/
+/
+
+TSTEP
+ 1 /--558 
+
+GCONINJE
+	G2	WAT	RATE	8650	1*	1*	1*	YES	1*	1*	1*	1*	/
+/
+
+TSTEP
+ 1 /--559 
+
+GCONINJE
+	G2	WAT	RATE	8650	1*	1*	1*	YES	1*	1*	1*	1*	/
+/
+
+TSTEP
+ 1 /--560 
+
+GCONINJE
+	G2	WAT	RATE	5500	1*	1*	1*	YES	1*	1*	1*	1*	/
+/
+
+TSTEP
+ 1 /--561 
+
+GCONINJE
+	G2	WAT	RATE	5350	1*	1*	1*	YES	1*	1*	1*	1*	/
+/
+
+TSTEP
+ 1 /--562 
+
+GCONINJE
+	G2	WAT	RATE	8650	1*	1*	1*	YES	1*	1*	1*	1*	/
+/
+
+TSTEP
+ 1 /--563 
+
+GCONINJE
+	G2	WAT	RATE	500	1*	1*	1*	YES	1*	1*	1*	1*	/
+/
+
+TSTEP
+ 1 /--564 
+
+GCONINJE
+	G2	WAT	RATE	4850	1*	1*	1*	YES	1*	1*	1*	1*	/
+/
+
+TSTEP
+ 1 /--565 
+
+GCONINJE
+	G2	WAT	RATE	8050	1*	1*	1*	YES	1*	1*	1*	1*	/
+/
+
+TSTEP
+ 1 /--566 
+
+GCONINJE
+	G2	WAT	RATE	2950	1*	1*	1*	YES	1*	1*	1*	1*	/
+/
+
+TSTEP
+ 1 /--567 
+
+GCONINJE
+	G2	WAT	RATE	750	1*	1*	1*	YES	1*	1*	1*	1*	/
+/
+
+TSTEP
+ 1 /--568 
+
+GCONINJE
+	G2	WAT	RATE	1100	1*	1*	1*	YES	1*	1*	1*	1*	/
+/
+
+TSTEP
+ 1 /--569 
+
+GCONINJE
+	G2	WAT	RATE	250	1*	1*	1*	YES	1*	1*	1*	1*	/
+/
+
+TSTEP
+ 1 /--570 
+
+GCONINJE
+	G2	WAT	RATE	0	1*	1*	1*	YES	1*	1*	1*	1*	/
+/
+
+TSTEP
+ 1 /--571 
+
+GCONINJE
+	G2	WAT	RATE	0	1*	1*	1*	YES	1*	1*	1*	1*	/
+/
+
+TSTEP
+ 1 /--572 
+
+GCONINJE
+	G2	WAT	RATE	0	1*	1*	1*	YES	1*	1*	1*	1*	/
+/
+
+TSTEP
+ 1 /--573 
+
+GCONINJE
+	G2	WAT	RATE	800	1*	1*	1*	YES	1*	1*	1*	1*	/
+/
+
+TSTEP
+ 1 /--574 
+
+GCONINJE
+	G2	WAT	RATE	5900	1*	1*	1*	YES	1*	1*	1*	1*	/
+/
+
+TSTEP
+ 1 /--575 
+
+GCONINJE
+	G2	WAT	RATE	1050	1*	1*	1*	YES	1*	1*	1*	1*	/
+/
+
+TSTEP
+ 1 /--576 
+
+GCONINJE
+	G2	WAT	RATE	2350	1*	1*	1*	YES	1*	1*	1*	1*	/
+/
+
+TSTEP
+ 1 /--577 
+
+GCONINJE
+	G2	WAT	RATE	400	1*	1*	1*	YES	1*	1*	1*	1*	/
+/
+
+TSTEP
+ 1 /--578 
+
+GCONINJE
+	G2	WAT	RATE	1350	1*	1*	1*	YES	1*	1*	1*	1*	/
+/
+
+TSTEP
+ 1 /--579 
+
+GCONINJE
+	G2	WAT	RATE	1100	1*	1*	1*	YES	1*	1*	1*	1*	/
+/
+
+TSTEP
+ 1 /--580 
+
+GCONINJE
+	G2	WAT	RATE	1700	1*	1*	1*	YES	1*	1*	1*	1*	/
+/
+
+TSTEP
+ 1 /--581 
+
+GCONINJE
+	G2	WAT	RATE	200	1*	1*	1*	YES	1*	1*	1*	1*	/
+/
+
+TSTEP
+ 1 /--582 
+
+GCONINJE
+	G2	WAT	RATE	4950	1*	1*	1*	YES	1*	1*	1*	1*	/
+/
+
+TSTEP
+ 1 /--583 
+
+GCONINJE
+	G2	WAT	RATE	4400	1*	1*	1*	YES	1*	1*	1*	1*	/
+/
+
+TSTEP
+ 1 /--584 
+
+GCONINJE
+	G2	WAT	RATE	3700	1*	1*	1*	YES	1*	1*	1*	1*	/
+/
+
+TSTEP
+ 1 /--585 
+
+GCONINJE
+	G2	WAT	RATE	1500	1*	1*	1*	YES	1*	1*	1*	1*	/
+/
+
+TSTEP
+ 1 /--586 
+
+GCONINJE
+	G2	WAT	RATE	750	1*	1*	1*	YES	1*	1*	1*	1*	/
+/
+
+TSTEP
+ 1 /--587 
+
+GCONINJE
+	G2	WAT	RATE	1700	1*	1*	1*	YES	1*	1*	1*	1*	/
+/
+
+TSTEP
+ 1 /--588 
+
+GCONINJE
+	G2	WAT	RATE	1000	1*	1*	1*	YES	1*	1*	1*	1*	/
+/
+
+TSTEP
+ 1 /--589 
+
+GCONINJE
+	G2	WAT	RATE	4700	1*	1*	1*	YES	1*	1*	1*	1*	/
+/
+
+TSTEP
+ 1 /--590 
+
+GCONINJE
+	G2	WAT	RATE	8650	1*	1*	1*	YES	1*	1*	1*	1*	/
+/
+
+TSTEP
+ 1 /--591 
+
+GCONINJE
+	G2	WAT	RATE	8650	1*	1*	1*	YES	1*	1*	1*	1*	/
+/
+
+TSTEP
+ 1 /--592 
+
+GCONINJE
+	G2	WAT	RATE	1700	1*	1*	1*	YES	1*	1*	1*	1*	/
+/
+
+TSTEP
+ 1 /--593 
+
+GCONINJE
+	G2	WAT	RATE	300	1*	1*	1*	YES	1*	1*	1*	1*	/
+/
+
+TSTEP
+ 1 /--594 
+
+GCONINJE
+	G2	WAT	RATE	1150	1*	1*	1*	YES	1*	1*	1*	1*	/
+/
+
+TSTEP
+ 1 /--595 
+
+GCONINJE
+	G2	WAT	RATE	6900	1*	1*	1*	YES	1*	1*	1*	1*	/
+/
+
+TSTEP
+ 1 /--596 
+
+GCONINJE
+	G2	WAT	RATE	2450	1*	1*	1*	YES	1*	1*	1*	1*	/
+/
+
+TSTEP
+ 1 /--597 
+
+GCONINJE
+	G2	WAT	RATE	6150	1*	1*	1*	YES	1*	1*	1*	1*	/
+/
+
+TSTEP
+ 1 /--598 
+
+GCONINJE
+	G2	WAT	RATE	8650	1*	1*	1*	YES	1*	1*	1*	1*	/
+/
+
+TSTEP
+ 1 /--599 
+
+GCONINJE
+	G2	WAT	RATE	2100	1*	1*	1*	YES	1*	1*	1*	1*	/
+/
+
+TSTEP
+ 1 /--600 
+
+GCONINJE
+	G2	WAT	RATE	250	1*	1*	1*	YES	1*	1*	1*	1*	/
+/
+
+TSTEP
+ 1 /--601 
+
+GCONINJE
+	G2	WAT	RATE	400	1*	1*	1*	YES	1*	1*	1*	1*	/
+/
+
+TSTEP
+ 1 /--602 
+
+GCONINJE
+	G2	WAT	RATE	400	1*	1*	1*	YES	1*	1*	1*	1*	/
+/
+
+TSTEP
+ 1 /--603 
+
+GCONINJE
+	G2	WAT	RATE	1650	1*	1*	1*	YES	1*	1*	1*	1*	/
+/
+
+TSTEP
+ 1 /--604 
+
+GCONINJE
+	G2	WAT	RATE	5600	1*	1*	1*	YES	1*	1*	1*	1*	/
+/
+
+TSTEP
+ 1 /--605 
+
+GCONINJE
+	G2	WAT	RATE	6800	1*	1*	1*	YES	1*	1*	1*	1*	/
+/
+
+TSTEP
+ 1 /--606 
+
+GCONINJE
+	G2	WAT	RATE	6150	1*	1*	1*	YES	1*	1*	1*	1*	/
+/
+
+TSTEP
+ 1 /--607 
+
+GCONINJE
+	G2	WAT	RATE	8100	1*	1*	1*	YES	1*	1*	1*	1*	/
+/
+
+TSTEP
+ 1 /--608 
+
+GCONINJE
+	G2	WAT	RATE	2000	1*	1*	1*	YES	1*	1*	1*	1*	/
+/
+
+TSTEP
+ 1 /--609 
+
+GCONINJE
+	G2	WAT	RATE	1650	1*	1*	1*	YES	1*	1*	1*	1*	/
+/
+
+TSTEP
+ 1 /--610 
+
+GCONINJE
+	G2	WAT	RATE	4850	1*	1*	1*	YES	1*	1*	1*	1*	/
+/
+
+TSTEP
+ 1 /--611 
+
+GCONINJE
+	G2	WAT	RATE	8650	1*	1*	1*	YES	1*	1*	1*	1*	/
+/
+
+TSTEP
+ 1 /--612 
+
+GCONINJE
+	G2	WAT	RATE	8650	1*	1*	1*	YES	1*	1*	1*	1*	/
+/
+
+TSTEP
+ 1 /--613 
+
+GCONINJE
+	G2	WAT	RATE	6250	1*	1*	1*	YES	1*	1*	1*	1*	/
+/
+
+TSTEP
+ 1 /--614 
+
+GCONINJE
+	G2	WAT	RATE	4400	1*	1*	1*	YES	1*	1*	1*	1*	/
+/
+
+TSTEP
+ 1 /--615 
+
+GCONINJE
+	G2	WAT	RATE	8650	1*	1*	1*	YES	1*	1*	1*	1*	/
+/
+
+TSTEP
+ 1 /--616 
+
+GCONINJE
+	G2	WAT	RATE	8650	1*	1*	1*	YES	1*	1*	1*	1*	/
+/
+
+TSTEP
+ 1 /--617 
+
+GCONINJE
+	G2	WAT	RATE	8650	1*	1*	1*	YES	1*	1*	1*	1*	/
+/
+
+TSTEP
+ 1 /--618 
+
+GCONINJE
+	G2	WAT	RATE	3450	1*	1*	1*	YES	1*	1*	1*	1*	/
+/
+
+TSTEP
+ 1 /--619 
+
+GCONINJE
+	G2	WAT	RATE	6100	1*	1*	1*	YES	1*	1*	1*	1*	/
+/
+
+TSTEP
+ 1 /--620 
+
+GCONINJE
+	G2	WAT	RATE	2150	1*	1*	1*	YES	1*	1*	1*	1*	/
+/
+
+TSTEP
+ 1 /--621 
+
+GCONINJE
+	G2	WAT	RATE	5850	1*	1*	1*	YES	1*	1*	1*	1*	/
+/
+
+TSTEP
+ 1 /--622 
+
+GCONINJE
+	G2	WAT	RATE	1900	1*	1*	1*	YES	1*	1*	1*	1*	/
+/
+
+TSTEP
+ 1 /--623 
+
+GCONINJE
+	G2	WAT	RATE	1200	1*	1*	1*	YES	1*	1*	1*	1*	/
+/
+
+TSTEP
+ 1 /--624 
+
+GCONINJE
+	G2	WAT	RATE	350	1*	1*	1*	YES	1*	1*	1*	1*	/
+/
+
+TSTEP
+ 1 /--625 
+
+GCONINJE
+	G2	WAT	RATE	500	1*	1*	1*	YES	1*	1*	1*	1*	/
+/
+
+TSTEP
+ 1 /--626 
+
+GCONINJE
+	G2	WAT	RATE	450	1*	1*	1*	YES	1*	1*	1*	1*	/
+/
+
+TSTEP
+ 1 /--627 
+
+GCONINJE
+	G2	WAT	RATE	8650	1*	1*	1*	YES	1*	1*	1*	1*	/
+/
+
+TSTEP
+ 1 /--628 
+
+GCONINJE
+	G2	WAT	RATE	8650	1*	1*	1*	YES	1*	1*	1*	1*	/
+/
+
+TSTEP
+ 1 /--629 
+
+GCONINJE
+	G2	WAT	RATE	1800	1*	1*	1*	YES	1*	1*	1*	1*	/
+/
+
+TSTEP
+ 1 /--630 
+
+GCONINJE
+	G2	WAT	RATE	8650	1*	1*	1*	YES	1*	1*	1*	1*	/
+/
+
+TSTEP
+ 1 /--631 
+
+GCONINJE
+	G2	WAT	RATE	6550	1*	1*	1*	YES	1*	1*	1*	1*	/
+/
+
+TSTEP
+ 1 /--632 
+
+GCONINJE
+	G2	WAT	RATE	3150	1*	1*	1*	YES	1*	1*	1*	1*	/
+/
+
+TSTEP
+ 1 /--633 
+
+GCONINJE
+	G2	WAT	RATE	850	1*	1*	1*	YES	1*	1*	1*	1*	/
+/
+
+TSTEP
+ 1 /--634 
+
+GCONINJE
+	G2	WAT	RATE	3500	1*	1*	1*	YES	1*	1*	1*	1*	/
+/
+
+TSTEP
+ 1 /--635 
+
+GCONINJE
+	G2	WAT	RATE	1600	1*	1*	1*	YES	1*	1*	1*	1*	/
+/
+
+TSTEP
+ 1 /--636 
+
+GCONINJE
+	G2	WAT	RATE	6750	1*	1*	1*	YES	1*	1*	1*	1*	/
+/
+
+TSTEP
+ 1 /--637 
+
+GCONINJE
+	G2	WAT	RATE	2100	1*	1*	1*	YES	1*	1*	1*	1*	/
+/
+
+TSTEP
+ 1 /--638 
+
+GCONINJE
+	G2	WAT	RATE	5500	1*	1*	1*	YES	1*	1*	1*	1*	/
+/
+
+TSTEP
+ 1 /--639 
+
+GCONINJE
+	G2	WAT	RATE	8650	1*	1*	1*	YES	1*	1*	1*	1*	/
+/
+
+TSTEP
+ 1 /--640 
+
+GCONINJE
+	G2	WAT	RATE	8650	1*	1*	1*	YES	1*	1*	1*	1*	/
+/
+
+TSTEP
+ 1 /--641 
+
+GCONINJE
+	G2	WAT	RATE	3550	1*	1*	1*	YES	1*	1*	1*	1*	/
+/
+
+TSTEP
+ 1 /--642 
+
+GCONINJE
+	G2	WAT	RATE	2200	1*	1*	1*	YES	1*	1*	1*	1*	/
+/
+
+TSTEP
+ 1 /--643 
+
+GCONINJE
+	G2	WAT	RATE	3250	1*	1*	1*	YES	1*	1*	1*	1*	/
+/
+
+TSTEP
+ 1 /--644 
+
+GCONINJE
+	G2	WAT	RATE	5300	1*	1*	1*	YES	1*	1*	1*	1*	/
+/
+
+TSTEP
+ 1 /--645 
+
+GCONINJE
+	G2	WAT	RATE	8650	1*	1*	1*	YES	1*	1*	1*	1*	/
+/
+
+TSTEP
+ 1 /--646 
+
+GCONINJE
+	G2	WAT	RATE	3550	1*	1*	1*	YES	1*	1*	1*	1*	/
+/
+
+TSTEP
+ 1 /--647 
+
+GCONINJE
+	G2	WAT	RATE	7550	1*	1*	1*	YES	1*	1*	1*	1*	/
+/
+
+TSTEP
+ 1 /--648 
+
+GCONINJE
+	G2	WAT	RATE	800	1*	1*	1*	YES	1*	1*	1*	1*	/
+/
+
+TSTEP
+ 1 /--649 
+
+GCONINJE
+	G2	WAT	RATE	850	1*	1*	1*	YES	1*	1*	1*	1*	/
+/
+
+TSTEP
+ 1 /--650 
+
+GCONINJE
+	G2	WAT	RATE	8650	1*	1*	1*	YES	1*	1*	1*	1*	/
+/
+
+TSTEP
+ 1 /--651 
+
+GCONINJE
+	G2	WAT	RATE	8650	1*	1*	1*	YES	1*	1*	1*	1*	/
+/
+
+TSTEP
+ 1 /--652 
+
+GCONINJE
+	G2	WAT	RATE	8650	1*	1*	1*	YES	1*	1*	1*	1*	/
+/
+
+TSTEP
+ 1 /--653 
+
+GCONINJE
+	G2	WAT	RATE	8650	1*	1*	1*	YES	1*	1*	1*	1*	/
+/
+
+TSTEP
+ 1 /--654 
+
+GCONINJE
+	G2	WAT	RATE	8500	1*	1*	1*	YES	1*	1*	1*	1*	/
+/
+
+TSTEP
+ 1 /--655 
+
+GCONINJE
+	G2	WAT	RATE	7500	1*	1*	1*	YES	1*	1*	1*	1*	/
+/
+
+TSTEP
+ 1 /--656 
+
+GCONINJE
+	G2	WAT	RATE	350	1*	1*	1*	YES	1*	1*	1*	1*	/
+/
+
+TSTEP
+ 1 /--657 
+
+GCONINJE
+	G2	WAT	RATE	8650	1*	1*	1*	YES	1*	1*	1*	1*	/
+/
+
+TSTEP
+ 1 /--658 
+
+GCONINJE
+	G2	WAT	RATE	8650	1*	1*	1*	YES	1*	1*	1*	1*	/
+/
+
+TSTEP
+ 1 /--659 
+
+GCONINJE
+	G2	WAT	RATE	8650	1*	1*	1*	YES	1*	1*	1*	1*	/
+/
+
+TSTEP
+ 1 /--660 
+
+GCONINJE
+	G2	WAT	RATE	1850	1*	1*	1*	YES	1*	1*	1*	1*	/
+/
+
+TSTEP
+ 1 /--661 
+
+GCONINJE
+	G2	WAT	RATE	750	1*	1*	1*	YES	1*	1*	1*	1*	/
+/
+
+TSTEP
+ 1 /--662 
+
+GCONINJE
+	G2	WAT	RATE	6850	1*	1*	1*	YES	1*	1*	1*	1*	/
+/
+
+TSTEP
+ 1 /--663 
+
+GCONINJE
+	G2	WAT	RATE	8650	1*	1*	1*	YES	1*	1*	1*	1*	/
+/
+
+TSTEP
+ 1 /--664 
+
+GCONINJE
+	G2	WAT	RATE	8650	1*	1*	1*	YES	1*	1*	1*	1*	/
+/
+
+TSTEP
+ 1 /--665 
+
+GCONINJE
+	G2	WAT	RATE	5800	1*	1*	1*	YES	1*	1*	1*	1*	/
+/
+
+TSTEP
+ 1 /--666 
+
+GCONINJE
+	G2	WAT	RATE	1350	1*	1*	1*	YES	1*	1*	1*	1*	/
+/
+
+TSTEP
+ 1 /--667 
+
+GCONINJE
+	G2	WAT	RATE	5850	1*	1*	1*	YES	1*	1*	1*	1*	/
+/
+
+TSTEP
+ 1 /--668 
+
+GCONINJE
+	G2	WAT	RATE	8650	1*	1*	1*	YES	1*	1*	1*	1*	/
+/
+
+TSTEP
+ 1 /--669 
+
+GCONINJE
+	G2	WAT	RATE	8650	1*	1*	1*	YES	1*	1*	1*	1*	/
+/
+
+TSTEP
+ 1 /--670 
+
+GCONINJE
+	G2	WAT	RATE	3300	1*	1*	1*	YES	1*	1*	1*	1*	/
+/
+
+TSTEP
+ 1 /--671 
+
+GCONINJE
+	G2	WAT	RATE	8650	1*	1*	1*	YES	1*	1*	1*	1*	/
+/
+
+TSTEP
+ 1 /--672 
+
+GCONINJE
+	G2	WAT	RATE	8650	1*	1*	1*	YES	1*	1*	1*	1*	/
+/
+
+TSTEP
+ 1 /--673 
+
+GCONINJE
+	G2	WAT	RATE	8650	1*	1*	1*	YES	1*	1*	1*	1*	/
+/
+
+TSTEP
+ 1 /--674 
+
+GCONINJE
+	G2	WAT	RATE	8650	1*	1*	1*	YES	1*	1*	1*	1*	/
+/
+
+TSTEP
+ 1 /--675 
+
+GCONINJE
+	G2	WAT	RATE	8650	1*	1*	1*	YES	1*	1*	1*	1*	/
+/
+
+TSTEP
+ 1 /--676 
+
+GCONINJE
+	G2	WAT	RATE	8650	1*	1*	1*	YES	1*	1*	1*	1*	/
+/
+
+TSTEP
+ 1 /--677 
+
+GCONINJE
+	G2	WAT	RATE	8650	1*	1*	1*	YES	1*	1*	1*	1*	/
+/
+
+TSTEP
+ 1 /--678 
+
+GCONINJE
+	G2	WAT	RATE	8650	1*	1*	1*	YES	1*	1*	1*	1*	/
+/
+
+TSTEP
+ 1 /--679 
+
+GCONINJE
+	G2	WAT	RATE	8650	1*	1*	1*	YES	1*	1*	1*	1*	/
+/
+
+TSTEP
+ 1 /--680 
+
+GCONINJE
+	G2	WAT	RATE	4950	1*	1*	1*	YES	1*	1*	1*	1*	/
+/
+
+TSTEP
+ 1 /--681 
+
+GCONINJE
+	G2	WAT	RATE	6300	1*	1*	1*	YES	1*	1*	1*	1*	/
+/
+
+TSTEP
+ 1 /--682 
+
+GCONINJE
+	G2	WAT	RATE	8650	1*	1*	1*	YES	1*	1*	1*	1*	/
+/
+
+TSTEP
+ 1 /--683 
+
+GCONINJE
+	G2	WAT	RATE	8650	1*	1*	1*	YES	1*	1*	1*	1*	/
+/
+
+TSTEP
+ 1 /--684 
+
+GCONINJE
+	G2	WAT	RATE	7850	1*	1*	1*	YES	1*	1*	1*	1*	/
+/
+
+TSTEP
+ 1 /--685 
+
+GCONINJE
+	G2	WAT	RATE	6900	1*	1*	1*	YES	1*	1*	1*	1*	/
+/
+
+TSTEP
+ 1 /--686 
+
+GCONINJE
+	G2	WAT	RATE	8650	1*	1*	1*	YES	1*	1*	1*	1*	/
+/
+
+TSTEP
+ 1 /--687 
+
+GCONINJE
+	G2	WAT	RATE	8650	1*	1*	1*	YES	1*	1*	1*	1*	/
+/
+
+TSTEP
+ 1 /--688 
+
+GCONINJE
+	G2	WAT	RATE	4550	1*	1*	1*	YES	1*	1*	1*	1*	/
+/
+
+TSTEP
+ 1 /--689 
+
+GCONINJE
+	G2	WAT	RATE	2600	1*	1*	1*	YES	1*	1*	1*	1*	/
+/
+
+TSTEP
+ 1 /--690 
+
+GCONINJE
+	G2	WAT	RATE	350	1*	1*	1*	YES	1*	1*	1*	1*	/
+/
+
+TSTEP
+ 1 /--691 
+
+GCONINJE
+	G2	WAT	RATE	2300	1*	1*	1*	YES	1*	1*	1*	1*	/
+/
+
+TSTEP
+ 1 /--692 
+
+GCONINJE
+	G2	WAT	RATE	7600	1*	1*	1*	YES	1*	1*	1*	1*	/
+/
+
+TSTEP
+ 1 /--693 
+
+GCONINJE
+	G2	WAT	RATE	7550	1*	1*	1*	YES	1*	1*	1*	1*	/
+/
+
+TSTEP
+ 1 /--694 
+
+GCONINJE
+	G2	WAT	RATE	8650	1*	1*	1*	YES	1*	1*	1*	1*	/
+/
+
+TSTEP
+ 1 /--695 
+
+GCONINJE
+	G2	WAT	RATE	8650	1*	1*	1*	YES	1*	1*	1*	1*	/
+/
+
+TSTEP
+ 1 /--696 
+
+GCONINJE
+	G2	WAT	RATE	8650	1*	1*	1*	YES	1*	1*	1*	1*	/
+/
+
+TSTEP
+ 1 /--697 
+
+GCONINJE
+	G2	WAT	RATE	8650	1*	1*	1*	YES	1*	1*	1*	1*	/
+/
+
+TSTEP
+ 1 /--698 
+
+GCONINJE
+	G2	WAT	RATE	8650	1*	1*	1*	YES	1*	1*	1*	1*	/
+/
+
+TSTEP
+ 1 /--699 
+
+GCONINJE
+	G2	WAT	RATE	8650	1*	1*	1*	YES	1*	1*	1*	1*	/
+/
+
+TSTEP
+ 1 /--700 
+
+GCONINJE
+	G2	WAT	RATE	8650	1*	1*	1*	YES	1*	1*	1*	1*	/
+/
+
+TSTEP
+ 1 /--701 
+
+GCONINJE
+	G2	WAT	RATE	6850	1*	1*	1*	YES	1*	1*	1*	1*	/
+/
+
+TSTEP
+ 1 /--702 
+
+GCONINJE
+	G2	WAT	RATE	3800	1*	1*	1*	YES	1*	1*	1*	1*	/
+/
+
+TSTEP
+ 1 /--703 
+
+GCONINJE
+	G2	WAT	RATE	2200	1*	1*	1*	YES	1*	1*	1*	1*	/
+/
+
+TSTEP
+ 1 /--704 
+
+GCONINJE
+	G2	WAT	RATE	3300	1*	1*	1*	YES	1*	1*	1*	1*	/
+/
+
+TSTEP
+ 1 /--705 
+
+GCONINJE
+	G2	WAT	RATE	8650	1*	1*	1*	YES	1*	1*	1*	1*	/
+/
+
+TSTEP
+ 1 /--706 
+
+GCONINJE
+	G2	WAT	RATE	4150	1*	1*	1*	YES	1*	1*	1*	1*	/
+/
+
+TSTEP
+ 1 /--707 
+
+GCONINJE
+	G2	WAT	RATE	8650	1*	1*	1*	YES	1*	1*	1*	1*	/
+/
+
+TSTEP
+ 1 /--708 
+
+GCONINJE
+	G2	WAT	RATE	8650	1*	1*	1*	YES	1*	1*	1*	1*	/
+/
+
+TSTEP
+ 1 /--709 
+
+GCONINJE
+	G2	WAT	RATE	8650	1*	1*	1*	YES	1*	1*	1*	1*	/
+/
+
+TSTEP
+ 1 /--710 
+
+GCONINJE
+	G2	WAT	RATE	8650	1*	1*	1*	YES	1*	1*	1*	1*	/
+/
+
+TSTEP
+ 1 /--711 
+
+GCONINJE
+	G2	WAT	RATE	8650	1*	1*	1*	YES	1*	1*	1*	1*	/
+/
+
+TSTEP
+ 1 /--712 
+
+GCONINJE
+	G2	WAT	RATE	8650	1*	1*	1*	YES	1*	1*	1*	1*	/
+/
+
+TSTEP
+ 1 /--713 
+
+GCONINJE
+	G2	WAT	RATE	8650	1*	1*	1*	YES	1*	1*	1*	1*	/
+/
+
+TSTEP
+ 1 /--714 
+
+GCONINJE
+	G2	WAT	RATE	7450	1*	1*	1*	YES	1*	1*	1*	1*	/
+/
+
+TSTEP
+ 1 /--715 
+
+GCONINJE
+	G2	WAT	RATE	8650	1*	1*	1*	YES	1*	1*	1*	1*	/
+/
+
+TSTEP
+ 1 /--716 
+
+GCONINJE
+	G2	WAT	RATE	8650	1*	1*	1*	YES	1*	1*	1*	1*	/
+/
+
+TSTEP
+ 1 /--717 
+
+GCONINJE
+	G2	WAT	RATE	8650	1*	1*	1*	YES	1*	1*	1*	1*	/
+/
+
+TSTEP
+ 1 /--718 
+
+GCONINJE
+	G2	WAT	RATE	8650	1*	1*	1*	YES	1*	1*	1*	1*	/
+/
+
+TSTEP
+ 1 /--719 
+
+GCONINJE
+	G2	WAT	RATE	8650	1*	1*	1*	YES	1*	1*	1*	1*	/
+/
+
+TSTEP
+ 1 /--720 
+
+GCONINJE
+	G2	WAT	RATE	8650	1*	1*	1*	YES	1*	1*	1*	1*	/
+/
+
+TSTEP
+ 1 /--721 
+
+GCONINJE
+	G2	WAT	RATE	8650	1*	1*	1*	YES	1*	1*	1*	1*	/
+/
+
+TSTEP
+ 1 /--722 
+
+GCONINJE
+	G2	WAT	RATE	8650	1*	1*	1*	YES	1*	1*	1*	1*	/
+/
+
+TSTEP
+ 1 /--723 
+
+GCONINJE
+	G2	WAT	RATE	8650	1*	1*	1*	YES	1*	1*	1*	1*	/
+/
+
+TSTEP
+ 1 /--724 
+
+GCONINJE
+	G2	WAT	RATE	8650	1*	1*	1*	YES	1*	1*	1*	1*	/
+/
+
+TSTEP
+ 1 /--725 
+
+GCONINJE
+	G2	WAT	RATE	8650	1*	1*	1*	YES	1*	1*	1*	1*	/
+/
+
+TSTEP
+ 1 /--726 
+
+GCONINJE
+	G2	WAT	RATE	8650	1*	1*	1*	YES	1*	1*	1*	1*	/
+/
+
+TSTEP
+ 1 /--727 
+
+GCONINJE
+	G2	WAT	RATE	4500	1*	1*	1*	YES	1*	1*	1*	1*	/
+/
+
+TSTEP
+ 1 /--728 
+
+GCONINJE
+	G2	WAT	RATE	8650	1*	1*	1*	YES	1*	1*	1*	1*	/
+/
+
+TSTEP
+ 1 /--729 
+
+GCONINJE
+	G2	WAT	RATE	8650	1*	1*	1*	YES	1*	1*	1*	1*	/
+/
+
+TSTEP
+ 1 /--730 
+
+GCONINJE
+	G2	WAT	RATE	3450	1*	1*	1*	YES	1*	1*	1*	1*	/
+/
+
+TSTEP
+ 1 /--731 
+
+GCONINJE
+	G2	WAT	RATE	8650	1*	1*	1*	YES	1*	1*	1*	1*	/
+/
+
+TSTEP
+ 1 /--732 
+
+GCONINJE
+	G2	WAT	RATE	8650	1*	1*	1*	YES	1*	1*	1*	1*	/
+/
+
+TSTEP
+ 1 /--733 
+
+GCONINJE
+	G2	WAT	RATE	7500	1*	1*	1*	YES	1*	1*	1*	1*	/
+/
+
+TSTEP
+ 1 /--734 
+
+GCONINJE
+	G2	WAT	RATE	1300	1*	1*	1*	YES	1*	1*	1*	1*	/
+/
+
+TSTEP
+ 1 /--735 
+
+GCONINJE
+	G2	WAT	RATE	150	1*	1*	1*	YES	1*	1*	1*	1*	/
+/
+
+TSTEP
+ 1 /--736 
+
+GCONINJE
+	G2	WAT	RATE	900	1*	1*	1*	YES	1*	1*	1*	1*	/
+/
+
+TSTEP
+ 1 /--737 
+
+GCONINJE
+	G2	WAT	RATE	5400	1*	1*	1*	YES	1*	1*	1*	1*	/
+/
+
+TSTEP
+ 1 /--738 
+
+GCONINJE
+	G2	WAT	RATE	8650	1*	1*	1*	YES	1*	1*	1*	1*	/
+/
+
+TSTEP
+ 1 /--739 
+
+GCONINJE
+	G2	WAT	RATE	8650	1*	1*	1*	YES	1*	1*	1*	1*	/
+/
+
+TSTEP
+ 1 /--740 
+
+GCONINJE
+	G2	WAT	RATE	8650	1*	1*	1*	YES	1*	1*	1*	1*	/
+/
+
+TSTEP
+ 1 /--741 
+
+GCONINJE
+	G2	WAT	RATE	8650	1*	1*	1*	YES	1*	1*	1*	1*	/
+/
+
+TSTEP
+ 1 /--742 
+
+GCONINJE
+	G2	WAT	RATE	8650	1*	1*	1*	YES	1*	1*	1*	1*	/
+/
+
+TSTEP
+ 1 /--743 
+
+GCONINJE
+	G2	WAT	RATE	8650	1*	1*	1*	YES	1*	1*	1*	1*	/
+/
+
+TSTEP
+ 1 /--744 
+
+GCONINJE
+	G2	WAT	RATE	8000	1*	1*	1*	YES	1*	1*	1*	1*	/
+/
+
+TSTEP
+ 1 /--745 
+
+GCONINJE
+	G2	WAT	RATE	6750	1*	1*	1*	YES	1*	1*	1*	1*	/
+/
+
+TSTEP
+ 1 /--746 
+
+GCONINJE
+	G2	WAT	RATE	5300	1*	1*	1*	YES	1*	1*	1*	1*	/
+/
+
+TSTEP
+ 1 /--747 
+
+GCONINJE
+	G2	WAT	RATE	8650	1*	1*	1*	YES	1*	1*	1*	1*	/
+/
+
+TSTEP
+ 1 /--748 
+
+GCONINJE
+	G2	WAT	RATE	8650	1*	1*	1*	YES	1*	1*	1*	1*	/
+/
+
+TSTEP
+ 1 /--749 
+
+GCONINJE
+	G2	WAT	RATE	8650	1*	1*	1*	YES	1*	1*	1*	1*	/
+/
+
+TSTEP
+ 1 /--750 
+
+GCONINJE
+	G2	WAT	RATE	8650	1*	1*	1*	YES	1*	1*	1*	1*	/
+/
+
+TSTEP
+ 1 /--751 
+
+GCONINJE
+	G2	WAT	RATE	8650	1*	1*	1*	YES	1*	1*	1*	1*	/
+/
+
+TSTEP
+ 1 /--752 
+
+GCONINJE
+	G2	WAT	RATE	8650	1*	1*	1*	YES	1*	1*	1*	1*	/
+/
+
+TSTEP
+ 1 /--753 
+
+GCONINJE
+	G2	WAT	RATE	8650	1*	1*	1*	YES	1*	1*	1*	1*	/
+/
+
+TSTEP
+ 1 /--754 
+
+GCONINJE
+	G2	WAT	RATE	2900	1*	1*	1*	YES	1*	1*	1*	1*	/
+/
+
+TSTEP
+ 1 /--755 
+
+GCONINJE
+	G2	WAT	RATE	6800	1*	1*	1*	YES	1*	1*	1*	1*	/
+/
+
+TSTEP
+ 1 /--756 
+
+GCONINJE
+	G2	WAT	RATE	6450	1*	1*	1*	YES	1*	1*	1*	1*	/
+/
+
+TSTEP
+ 1 /--757 
+
+GCONINJE
+	G2	WAT	RATE	8650	1*	1*	1*	YES	1*	1*	1*	1*	/
+/
+
+TSTEP
+ 1 /--758 
+
+GCONINJE
+	G2	WAT	RATE	8650	1*	1*	1*	YES	1*	1*	1*	1*	/
+/
+
+TSTEP
+ 1 /--759 
+
+GCONINJE
+	G2	WAT	RATE	8650	1*	1*	1*	YES	1*	1*	1*	1*	/
+/
+
+TSTEP
+ 1 /--760 
+
+GCONINJE
+	G2	WAT	RATE	8650	1*	1*	1*	YES	1*	1*	1*	1*	/
+/
+
+TSTEP
+ 1 /--761 
+
+GCONINJE
+	G2	WAT	RATE	8650	1*	1*	1*	YES	1*	1*	1*	1*	/
+/
+
+TSTEP
+ 1 /--762 
+
+GCONINJE
+	G2	WAT	RATE	8650	1*	1*	1*	YES	1*	1*	1*	1*	/
+/
+
+TSTEP
+ 1 /--763 
+
+GCONINJE
+	G2	WAT	RATE	400	1*	1*	1*	YES	1*	1*	1*	1*	/
+/
+
+TSTEP
+ 1 /--764 
+
+GCONINJE
+	G2	WAT	RATE	7450	1*	1*	1*	YES	1*	1*	1*	1*	/
+/
+
+TSTEP
+ 1 /--765 
+
+GCONINJE
+	G2	WAT	RATE	8650	1*	1*	1*	YES	1*	1*	1*	1*	/
+/
+
+TSTEP
+ 1 /--766 
+
+GCONINJE
+	G2	WAT	RATE	8650	1*	1*	1*	YES	1*	1*	1*	1*	/
+/
+
+TSTEP
+ 1 /--767 
+
+GCONINJE
+	G2	WAT	RATE	5850	1*	1*	1*	YES	1*	1*	1*	1*	/
+/
+
+TSTEP
+ 1 /--768 
+
+GCONINJE
+	G2	WAT	RATE	8650	1*	1*	1*	YES	1*	1*	1*	1*	/
+/
+
+TSTEP
+ 1 /--769 
+
+GCONINJE
+	G2	WAT	RATE	8650	1*	1*	1*	YES	1*	1*	1*	1*	/
+/
+
+TSTEP
+ 1 /--770 
+
+GCONINJE
+	G2	WAT	RATE	8650	1*	1*	1*	YES	1*	1*	1*	1*	/
+/
+
+TSTEP
+ 1 /--771 
+
+GCONINJE
+	G2	WAT	RATE	8650	1*	1*	1*	YES	1*	1*	1*	1*	/
+/
+
+TSTEP
+ 1 /--772 
+
+GCONINJE
+	G2	WAT	RATE	7150	1*	1*	1*	YES	1*	1*	1*	1*	/
+/
+
+TSTEP
+ 1 /--773 
+
+GCONINJE
+	G2	WAT	RATE	4500	1*	1*	1*	YES	1*	1*	1*	1*	/
+/
+
+TSTEP
+ 1 /--774 
+
+GCONINJE
+	G2	WAT	RATE	2050	1*	1*	1*	YES	1*	1*	1*	1*	/
+/
+
+TSTEP
+ 1 /--775 
+
+GCONINJE
+	G2	WAT	RATE	6700	1*	1*	1*	YES	1*	1*	1*	1*	/
+/
+
+TSTEP
+ 1 /--776 
+
+GCONINJE
+	G2	WAT	RATE	7050	1*	1*	1*	YES	1*	1*	1*	1*	/
+/
+
+TSTEP
+ 1 /--777 
+
+GCONINJE
+	G2	WAT	RATE	2850	1*	1*	1*	YES	1*	1*	1*	1*	/
+/
+
+TSTEP
+ 1 /--778 
+
+GCONINJE
+	G2	WAT	RATE	1850	1*	1*	1*	YES	1*	1*	1*	1*	/
+/
+
+TSTEP
+ 1 /--779 
+
+GCONINJE
+	G2	WAT	RATE	1750	1*	1*	1*	YES	1*	1*	1*	1*	/
+/
+
+TSTEP
+ 1 /--780 
+
+GCONINJE
+	G2	WAT	RATE	3850	1*	1*	1*	YES	1*	1*	1*	1*	/
+/
+
+TSTEP
+ 1 /--781 
+
+GCONINJE
+	G2	WAT	RATE	1350	1*	1*	1*	YES	1*	1*	1*	1*	/
+/
+
+TSTEP
+ 1 /--782 
+
+GCONINJE
+	G2	WAT	RATE	8650	1*	1*	1*	YES	1*	1*	1*	1*	/
+/
+
+TSTEP
+ 1 /--783 
+
+GCONINJE
+	G2	WAT	RATE	450	1*	1*	1*	YES	1*	1*	1*	1*	/
+/
+
+TSTEP
+ 1 /--784 
+
+GCONINJE
+	G2	WAT	RATE	1550	1*	1*	1*	YES	1*	1*	1*	1*	/
+/
+
+TSTEP
+ 1 /--785 
+
+GCONINJE
+	G2	WAT	RATE	8650	1*	1*	1*	YES	1*	1*	1*	1*	/
+/
+
+TSTEP
+ 1 /--786 
+
+GCONINJE
+	G2	WAT	RATE	8650	1*	1*	1*	YES	1*	1*	1*	1*	/
+/
+
+TSTEP
+ 1 /--787 
+
+GCONINJE
+	G2	WAT	RATE	4750	1*	1*	1*	YES	1*	1*	1*	1*	/
+/
+
+TSTEP
+ 1 /--788 
+
+GCONINJE
+	G2	WAT	RATE	750	1*	1*	1*	YES	1*	1*	1*	1*	/
+/
+
+TSTEP
+ 1 /--789 
+
+GCONINJE
+	G2	WAT	RATE	8000	1*	1*	1*	YES	1*	1*	1*	1*	/
+/
+
+TSTEP
+ 1 /--790 
+
+GCONINJE
+	G2	WAT	RATE	8650	1*	1*	1*	YES	1*	1*	1*	1*	/
+/
+
+TSTEP
+ 1 /--791 
+
+GCONINJE
+	G2	WAT	RATE	4200	1*	1*	1*	YES	1*	1*	1*	1*	/
+/
+
+TSTEP
+ 1 /--792 
+
+GCONINJE
+	G2	WAT	RATE	750	1*	1*	1*	YES	1*	1*	1*	1*	/
+/
+
+TSTEP
+ 1 /--793 
+
+GCONINJE
+	G2	WAT	RATE	500	1*	1*	1*	YES	1*	1*	1*	1*	/
+/
+
+TSTEP
+ 1 /--794 
+
+GCONINJE
+	G2	WAT	RATE	2900	1*	1*	1*	YES	1*	1*	1*	1*	/
+/
+
+TSTEP
+ 1 /--795 
+
+GCONINJE
+	G2	WAT	RATE	1300	1*	1*	1*	YES	1*	1*	1*	1*	/
+/
+
+TSTEP
+ 1 /--796 
+
+GCONINJE
+	G2	WAT	RATE	2400	1*	1*	1*	YES	1*	1*	1*	1*	/
+/
+
+TSTEP
+ 1 /--797 
+
+GCONINJE
+	G2	WAT	RATE	2300	1*	1*	1*	YES	1*	1*	1*	1*	/
+/
+
+TSTEP
+ 1 /--798 
+
+GCONINJE
+	G2	WAT	RATE	6200	1*	1*	1*	YES	1*	1*	1*	1*	/
+/
+
+TSTEP
+ 1 /--799 
+
+GCONINJE
+	G2	WAT	RATE	50	1*	1*	1*	YES	1*	1*	1*	1*	/
+/
+
+TSTEP
+ 1 /--800 
+
+GCONINJE
+	G2	WAT	RATE	1050	1*	1*	1*	YES	1*	1*	1*	1*	/
+/
+
+TSTEP
+ 1 /--801 
+
+GCONINJE
+	G2	WAT	RATE	3850	1*	1*	1*	YES	1*	1*	1*	1*	/
+/
+
+TSTEP
+ 1 /--802 
+
+GCONINJE
+	G2	WAT	RATE	1150	1*	1*	1*	YES	1*	1*	1*	1*	/
+/
+
+TSTEP
+ 1 /--803 
+
+GCONINJE
+	G2	WAT	RATE	0	1*	1*	1*	YES	1*	1*	1*	1*	/
+/
+
+TSTEP
+ 1 /--804 
+
+GCONINJE
+	G2	WAT	RATE	0	1*	1*	1*	YES	1*	1*	1*	1*	/
+/
+
+TSTEP
+ 1 /--805 
+
+GCONINJE
+	G2	WAT	RATE	6150	1*	1*	1*	YES	1*	1*	1*	1*	/
+/
+
+TSTEP
+ 1 /--806 
+
+GCONINJE
+	G2	WAT	RATE	8650	1*	1*	1*	YES	1*	1*	1*	1*	/
+/
+
+TSTEP
+ 1 /--807 
+
+GCONINJE
+	G2	WAT	RATE	8650	1*	1*	1*	YES	1*	1*	1*	1*	/
+/
+
+TSTEP
+ 1 /--808 
+
+GCONINJE
+	G2	WAT	RATE	8650	1*	1*	1*	YES	1*	1*	1*	1*	/
+/
+
+TSTEP
+ 1 /--809 
+
+GCONINJE
+	G2	WAT	RATE	4800	1*	1*	1*	YES	1*	1*	1*	1*	/
+/
+
+TSTEP
+ 1 /--810 
+
+GCONINJE
+	G2	WAT	RATE	5700	1*	1*	1*	YES	1*	1*	1*	1*	/
+/
+
+TSTEP
+ 1 /--811 
+
+GCONINJE
+	G2	WAT	RATE	450	1*	1*	1*	YES	1*	1*	1*	1*	/
+/
+
+TSTEP
+ 1 /--812 
+
+GCONINJE
+	G2	WAT	RATE	1450	1*	1*	1*	YES	1*	1*	1*	1*	/
+/
+
+TSTEP
+ 1 /--813 
+
+GCONINJE
+	G2	WAT	RATE	2100	1*	1*	1*	YES	1*	1*	1*	1*	/
+/
+
+TSTEP
+ 1 /--814 
+
+GCONINJE
+	G2	WAT	RATE	700	1*	1*	1*	YES	1*	1*	1*	1*	/
+/
+
+TSTEP
+ 1 /--815 
+
+GCONINJE
+	G2	WAT	RATE	550	1*	1*	1*	YES	1*	1*	1*	1*	/
+/
+
+TSTEP
+ 1 /--816 
+
+GCONINJE
+	G2	WAT	RATE	4850	1*	1*	1*	YES	1*	1*	1*	1*	/
+/
+
+TSTEP
+ 1 /--817 
+
+GCONINJE
+	G2	WAT	RATE	5600	1*	1*	1*	YES	1*	1*	1*	1*	/
+/
+
+TSTEP
+ 1 /--818 
+
+GCONINJE
+	G2	WAT	RATE	6200	1*	1*	1*	YES	1*	1*	1*	1*	/
+/
+
+TSTEP
+ 1 /--819 
+
+GCONINJE
+	G2	WAT	RATE	1750	1*	1*	1*	YES	1*	1*	1*	1*	/
+/
+
+TSTEP
+ 1 /--820 
+
+GCONINJE
+	G2	WAT	RATE	1300	1*	1*	1*	YES	1*	1*	1*	1*	/
+/
+
+TSTEP
+ 1 /--821 
+
+GCONINJE
+	G2	WAT	RATE	3450	1*	1*	1*	YES	1*	1*	1*	1*	/
+/
+
+TSTEP
+ 1 /--822 
+
+GCONINJE
+	G2	WAT	RATE	8650	1*	1*	1*	YES	1*	1*	1*	1*	/
+/
+
+TSTEP
+ 1 /--823 
+
+GCONINJE
+	G2	WAT	RATE	8650	1*	1*	1*	YES	1*	1*	1*	1*	/
+/
+
+TSTEP
+ 1 /--824 
+
+GCONINJE
+	G2	WAT	RATE	1950	1*	1*	1*	YES	1*	1*	1*	1*	/
+/
+
+TSTEP
+ 1 /--825 
+
+GCONINJE
+	G2	WAT	RATE	3950	1*	1*	1*	YES	1*	1*	1*	1*	/
+/
+
+TSTEP
+ 1 /--826 
+
+GCONINJE
+	G2	WAT	RATE	2050	1*	1*	1*	YES	1*	1*	1*	1*	/
+/
+
+TSTEP
+ 1 /--827 
+
+GCONINJE
+	G2	WAT	RATE	800	1*	1*	1*	YES	1*	1*	1*	1*	/
+/
+
+TSTEP
+ 1 /--828 
+
+GCONINJE
+	G2	WAT	RATE	950	1*	1*	1*	YES	1*	1*	1*	1*	/
+/
+
+TSTEP
+ 1 /--829 
+
+GCONINJE
+	G2	WAT	RATE	2450	1*	1*	1*	YES	1*	1*	1*	1*	/
+/
+
+TSTEP
+ 1 /--830 
+
+GCONINJE
+	G2	WAT	RATE	1700	1*	1*	1*	YES	1*	1*	1*	1*	/
+/
+
+TSTEP
+ 1 /--831 
+
+GCONINJE
+	G2	WAT	RATE	4650	1*	1*	1*	YES	1*	1*	1*	1*	/
+/
+
+TSTEP
+ 1 /--832 
+
+GCONINJE
+	G2	WAT	RATE	4550	1*	1*	1*	YES	1*	1*	1*	1*	/
+/
+
+TSTEP
+ 1 /--833 
+
+GCONINJE
+	G2	WAT	RATE	8650	1*	1*	1*	YES	1*	1*	1*	1*	/
+/
+
+TSTEP
+ 1 /--834 
+
+GCONINJE
+	G2	WAT	RATE	8650	1*	1*	1*	YES	1*	1*	1*	1*	/
+/
+
+TSTEP
+ 1 /--835 
+
+GCONINJE
+	G2	WAT	RATE	6300	1*	1*	1*	YES	1*	1*	1*	1*	/
+/
+
+TSTEP
+ 1 /--836 
+
+GCONINJE
+	G2	WAT	RATE	3150	1*	1*	1*	YES	1*	1*	1*	1*	/
+/
+
+TSTEP
+ 1 /--837 
+
+GCONINJE
+	G2	WAT	RATE	1800	1*	1*	1*	YES	1*	1*	1*	1*	/
+/
+
+TSTEP
+ 1 /--838 
+
+GCONINJE
+	G2	WAT	RATE	6850	1*	1*	1*	YES	1*	1*	1*	1*	/
+/
+
+TSTEP
+ 1 /--839 
+
+GCONINJE
+	G2	WAT	RATE	100	1*	1*	1*	YES	1*	1*	1*	1*	/
+/
+
+TSTEP
+ 1 /--840 
+
+GCONINJE
+	G2	WAT	RATE	800	1*	1*	1*	YES	1*	1*	1*	1*	/
+/
+
+TSTEP
+ 1 /--841 
+
+GCONINJE
+	G2	WAT	RATE	8650	1*	1*	1*	YES	1*	1*	1*	1*	/
+/
+
+TSTEP
+ 1 /--842 
+
+GCONINJE
+	G2	WAT	RATE	8650	1*	1*	1*	YES	1*	1*	1*	1*	/
+/
+
+TSTEP
+ 1 /--843 
+
+GCONINJE
+	G2	WAT	RATE	5050	1*	1*	1*	YES	1*	1*	1*	1*	/
+/
+
+TSTEP
+ 1 /--844 
+
+GCONINJE
+	G2	WAT	RATE	7550	1*	1*	1*	YES	1*	1*	1*	1*	/
+/
+
+TSTEP
+ 1 /--845 
+
+GCONINJE
+	G2	WAT	RATE	8650	1*	1*	1*	YES	1*	1*	1*	1*	/
+/
+
+TSTEP
+ 1 /--846 
+
+GCONINJE
+	G2	WAT	RATE	7850	1*	1*	1*	YES	1*	1*	1*	1*	/
+/
+
+TSTEP
+ 1 /--847 
+
+GCONINJE
+	G2	WAT	RATE	1350	1*	1*	1*	YES	1*	1*	1*	1*	/
+/
+
+TSTEP
+ 1 /--848 
+
+GCONINJE
+	G2	WAT	RATE	4200	1*	1*	1*	YES	1*	1*	1*	1*	/
+/
+
+TSTEP
+ 1 /--849 
+
+GCONINJE
+	G2	WAT	RATE	3600	1*	1*	1*	YES	1*	1*	1*	1*	/
+/
+
+TSTEP
+ 1 /--850 
+
+GCONINJE
+	G2	WAT	RATE	6050	1*	1*	1*	YES	1*	1*	1*	1*	/
+/
+
+TSTEP
+ 1 /--851 
+
+GCONINJE
+	G2	WAT	RATE	2550	1*	1*	1*	YES	1*	1*	1*	1*	/
+/
+
+TSTEP
+ 1 /--852 
+
+GCONINJE
+	G2	WAT	RATE	5300	1*	1*	1*	YES	1*	1*	1*	1*	/
+/
+
+TSTEP
+ 1 /--853 
+
+GCONINJE
+	G2	WAT	RATE	2800	1*	1*	1*	YES	1*	1*	1*	1*	/
+/
+
+TSTEP
+ 1 /--854 
+
+GCONINJE
+	G2	WAT	RATE	2150	1*	1*	1*	YES	1*	1*	1*	1*	/
+/
+
+TSTEP
+ 1 /--855 
+
+GCONINJE
+	G2	WAT	RATE	2900	1*	1*	1*	YES	1*	1*	1*	1*	/
+/
+
+TSTEP
+ 1 /--856 
+
+GCONINJE
+	G2	WAT	RATE	800	1*	1*	1*	YES	1*	1*	1*	1*	/
+/
+
+TSTEP
+ 1 /--857 
+
+GCONINJE
+	G2	WAT	RATE	3050	1*	1*	1*	YES	1*	1*	1*	1*	/
+/
+
+TSTEP
+ 1 /--858 
+
+GCONINJE
+	G2	WAT	RATE	2600	1*	1*	1*	YES	1*	1*	1*	1*	/
+/
+
+TSTEP
+ 1 /--859 
+
+GCONINJE
+	G2	WAT	RATE	400	1*	1*	1*	YES	1*	1*	1*	1*	/
+/
+
+TSTEP
+ 1 /--860 
+
+GCONINJE
+	G2	WAT	RATE	2450	1*	1*	1*	YES	1*	1*	1*	1*	/
+/
+
+TSTEP
+ 1 /--861 
+
+GCONINJE
+	G2	WAT	RATE	8650	1*	1*	1*	YES	1*	1*	1*	1*	/
+/
+
+TSTEP
+ 1 /--862 
+
+GCONINJE
+	G2	WAT	RATE	6600	1*	1*	1*	YES	1*	1*	1*	1*	/
+/
+
+TSTEP
+ 1 /--863 
+
+GCONINJE
+	G2	WAT	RATE	8650	1*	1*	1*	YES	1*	1*	1*	1*	/
+/
+
+TSTEP
+ 1 /--864 
+
+GCONINJE
+	G2	WAT	RATE	3950	1*	1*	1*	YES	1*	1*	1*	1*	/
+/
+
+TSTEP
+ 1 /--865 
+
+GCONINJE
+	G2	WAT	RATE	8650	1*	1*	1*	YES	1*	1*	1*	1*	/
+/
+
+TSTEP
+ 1 /--866 
+
+GCONINJE
+	G2	WAT	RATE	8650	1*	1*	1*	YES	1*	1*	1*	1*	/
+/
+
+TSTEP
+ 1 /--867 
+
+GCONINJE
+	G2	WAT	RATE	3850	1*	1*	1*	YES	1*	1*	1*	1*	/
+/
+
+TSTEP
+ 1 /--868 
+
+GCONINJE
+	G2	WAT	RATE	1450	1*	1*	1*	YES	1*	1*	1*	1*	/
+/
+
+TSTEP
+ 1 /--869 
+
+GCONINJE
+	G2	WAT	RATE	1600	1*	1*	1*	YES	1*	1*	1*	1*	/
+/
+
+TSTEP
+ 1 /--870 
+
+GCONINJE
+	G2	WAT	RATE	1050	1*	1*	1*	YES	1*	1*	1*	1*	/
+/
+
+TSTEP
+ 1 /--871 
+
+GCONINJE
+	G2	WAT	RATE	1950	1*	1*	1*	YES	1*	1*	1*	1*	/
+/
+
+TSTEP
+ 1 /--872 
+
+GCONINJE
+	G2	WAT	RATE	2300	1*	1*	1*	YES	1*	1*	1*	1*	/
+/
+
+TSTEP
+ 1 /--873 
+
+GCONINJE
+	G2	WAT	RATE	450	1*	1*	1*	YES	1*	1*	1*	1*	/
+/
+
+TSTEP
+ 1 /--874 
+
+GCONINJE
+	G2	WAT	RATE	500	1*	1*	1*	YES	1*	1*	1*	1*	/
+/
+
+TSTEP
+ 1 /--875 
+
+GCONINJE
+	G2	WAT	RATE	1550	1*	1*	1*	YES	1*	1*	1*	1*	/
+/
+
+TSTEP
+ 1 /--876 
+
+GCONINJE
+	G2	WAT	RATE	8650	1*	1*	1*	YES	1*	1*	1*	1*	/
+/
+
+TSTEP
+ 1 /--877 
+
+GCONINJE
+	G2	WAT	RATE	8100	1*	1*	1*	YES	1*	1*	1*	1*	/
+/
+
+TSTEP
+ 1 /--878 
+
+GCONINJE
+	G2	WAT	RATE	3750	1*	1*	1*	YES	1*	1*	1*	1*	/
+/
+
+TSTEP
+ 1 /--879 
+
+GCONINJE
+	G2	WAT	RATE	6900	1*	1*	1*	YES	1*	1*	1*	1*	/
+/
+
+TSTEP
+ 1 /--880 
+
+GCONINJE
+	G2	WAT	RATE	5600	1*	1*	1*	YES	1*	1*	1*	1*	/
+/
+
+TSTEP
+ 1 /--881 
+
+GCONINJE
+	G2	WAT	RATE	1950	1*	1*	1*	YES	1*	1*	1*	1*	/
+/
+
+TSTEP
+ 1 /--882 
+
+GCONINJE
+	G2	WAT	RATE	8650	1*	1*	1*	YES	1*	1*	1*	1*	/
+/
+
+TSTEP
+ 1 /--883 
+
+GCONINJE
+	G2	WAT	RATE	8650	1*	1*	1*	YES	1*	1*	1*	1*	/
+/
+
+TSTEP
+ 1 /--884 
+
+GCONINJE
+	G2	WAT	RATE	8650	1*	1*	1*	YES	1*	1*	1*	1*	/
+/
+
+TSTEP
+ 1 /--885 
+
+GCONINJE
+	G2	WAT	RATE	550	1*	1*	1*	YES	1*	1*	1*	1*	/
+/
+
+TSTEP
+ 1 /--886 
+
+GCONINJE
+	G2	WAT	RATE	950	1*	1*	1*	YES	1*	1*	1*	1*	/
+/
+
+TSTEP
+ 1 /--887 
+
+GCONINJE
+	G2	WAT	RATE	3250	1*	1*	1*	YES	1*	1*	1*	1*	/
+/
+
+TSTEP
+ 1 /--888 
+
+GCONINJE
+	G2	WAT	RATE	8650	1*	1*	1*	YES	1*	1*	1*	1*	/
+/
+
+TSTEP
+ 1 /--889 
+
+GCONINJE
+	G2	WAT	RATE	8650	1*	1*	1*	YES	1*	1*	1*	1*	/
+/
+
+TSTEP
+ 1 /--890 
+
+GCONINJE
+	G2	WAT	RATE	2000	1*	1*	1*	YES	1*	1*	1*	1*	/
+/
+
+TSTEP
+ 1 /--891 
+
+GCONINJE
+	G2	WAT	RATE	1650	1*	1*	1*	YES	1*	1*	1*	1*	/
+/
+
+TSTEP
+ 1 /--892 
+
+GCONINJE
+	G2	WAT	RATE	450	1*	1*	1*	YES	1*	1*	1*	1*	/
+/
+
+TSTEP
+ 1 /--893 
+
+GCONINJE
+	G2	WAT	RATE	8650	1*	1*	1*	YES	1*	1*	1*	1*	/
+/
+
+TSTEP
+ 1 /--894 
+
+GCONINJE
+	G2	WAT	RATE	8650	1*	1*	1*	YES	1*	1*	1*	1*	/
+/
+
+TSTEP
+ 1 /--895 
+
+GCONINJE
+	G2	WAT	RATE	8650	1*	1*	1*	YES	1*	1*	1*	1*	/
+/
+
+TSTEP
+ 1 /--896 
+
+GCONINJE
+	G2	WAT	RATE	6050	1*	1*	1*	YES	1*	1*	1*	1*	/
+/
+
+TSTEP
+ 1 /--897 
+
+GCONINJE
+	G2	WAT	RATE	1000	1*	1*	1*	YES	1*	1*	1*	1*	/
+/
+
+TSTEP
+ 1 /--898 
+
+GCONINJE
+	G2	WAT	RATE	1100	1*	1*	1*	YES	1*	1*	1*	1*	/
+/
+
+TSTEP
+ 1 /--899 
+
+GCONINJE
+	G2	WAT	RATE	1200	1*	1*	1*	YES	1*	1*	1*	1*	/
+/
+
+TSTEP
+ 1 /--900 
+
+GCONINJE
+	G2	WAT	RATE	550	1*	1*	1*	YES	1*	1*	1*	1*	/
+/
+
+TSTEP
+ 1 /--901 
+
+GCONINJE
+	G2	WAT	RATE	2700	1*	1*	1*	YES	1*	1*	1*	1*	/
+/
+
+TSTEP
+ 1 /--902 
+
+GCONINJE
+	G2	WAT	RATE	200	1*	1*	1*	YES	1*	1*	1*	1*	/
+/
+
+TSTEP
+ 1 /--903 
+
+GCONINJE
+	G2	WAT	RATE	5650	1*	1*	1*	YES	1*	1*	1*	1*	/
+/
+
+TSTEP
+ 1 /--904 
+
+GCONINJE
+	G2	WAT	RATE	950	1*	1*	1*	YES	1*	1*	1*	1*	/
+/
+
+TSTEP
+ 1 /--905 
+
+GCONINJE
+	G2	WAT	RATE	1950	1*	1*	1*	YES	1*	1*	1*	1*	/
+/
+
+TSTEP
+ 1 /--906 
+
+GCONINJE
+	G2	WAT	RATE	300	1*	1*	1*	YES	1*	1*	1*	1*	/
+/
+
+TSTEP
+ 1 /--907 
+
+GCONINJE
+	G2	WAT	RATE	1800	1*	1*	1*	YES	1*	1*	1*	1*	/
+/
+
+TSTEP
+ 1 /--908 
+
+GCONINJE
+	G2	WAT	RATE	0	1*	1*	1*	YES	1*	1*	1*	1*	/
+/
+
+TSTEP
+ 1 /--909 
+
+GCONINJE
+	G2	WAT	RATE	0	1*	1*	1*	YES	1*	1*	1*	1*	/
+/
+
+TSTEP
+ 1 /--910 
+
+GCONINJE
+	G2	WAT	RATE	500	1*	1*	1*	YES	1*	1*	1*	1*	/
+/
+
+TSTEP
+ 1 /--911 
+
+GCONINJE
+	G2	WAT	RATE	750	1*	1*	1*	YES	1*	1*	1*	1*	/
+/
+
+TSTEP
+ 1 /--912 
+
+GCONINJE
+	G2	WAT	RATE	1250	1*	1*	1*	YES	1*	1*	1*	1*	/
+/
+
+TSTEP
+ 1 /--913 
+
+GCONINJE
+	G2	WAT	RATE	0	1*	1*	1*	YES	1*	1*	1*	1*	/
+/
+
+TSTEP
+ 1 /--914 
+
+GCONINJE
+	G2	WAT	RATE	1650	1*	1*	1*	YES	1*	1*	1*	1*	/
+/
+
+TSTEP
+ 1 /--915 
+
+GCONINJE
+	G2	WAT	RATE	550	1*	1*	1*	YES	1*	1*	1*	1*	/
+/
+
+TSTEP
+ 1 /--916 
+
+GCONINJE
+	G2	WAT	RATE	1850	1*	1*	1*	YES	1*	1*	1*	1*	/
+/
+
+TSTEP
+ 1 /--917 
+
+GCONINJE
+	G2	WAT	RATE	450	1*	1*	1*	YES	1*	1*	1*	1*	/
+/
+
+TSTEP
+ 1 /--918 
+
+GCONINJE
+	G2	WAT	RATE	750	1*	1*	1*	YES	1*	1*	1*	1*	/
+/
+
+TSTEP
+ 1 /--919 
+
+GCONINJE
+	G2	WAT	RATE	1150	1*	1*	1*	YES	1*	1*	1*	1*	/
+/
+
+TSTEP
+ 1 /--920 
+
+GCONINJE
+	G2	WAT	RATE	8250	1*	1*	1*	YES	1*	1*	1*	1*	/
+/
+
+TSTEP
+ 1 /--921 
+
+GCONINJE
+	G2	WAT	RATE	7100	1*	1*	1*	YES	1*	1*	1*	1*	/
+/
+
+TSTEP
+ 1 /--922 
+
+GCONINJE
+	G2	WAT	RATE	8650	1*	1*	1*	YES	1*	1*	1*	1*	/
+/
+
+TSTEP
+ 1 /--923 
+
+GCONINJE
+	G2	WAT	RATE	8650	1*	1*	1*	YES	1*	1*	1*	1*	/
+/
+
+TSTEP
+ 1 /--924 
+
+GCONINJE
+	G2	WAT	RATE	8650	1*	1*	1*	YES	1*	1*	1*	1*	/
+/
+
+TSTEP
+ 1 /--925 
+
+GCONINJE
+	G2	WAT	RATE	5500	1*	1*	1*	YES	1*	1*	1*	1*	/
+/
+
+TSTEP
+ 1 /--926 
+
+GCONINJE
+	G2	WAT	RATE	5350	1*	1*	1*	YES	1*	1*	1*	1*	/
+/
+
+TSTEP
+ 1 /--927 
+
+GCONINJE
+	G2	WAT	RATE	8650	1*	1*	1*	YES	1*	1*	1*	1*	/
+/
+
+TSTEP
+ 1 /--928 
+
+GCONINJE
+	G2	WAT	RATE	500	1*	1*	1*	YES	1*	1*	1*	1*	/
+/
+
+TSTEP
+ 1 /--929 
+
+GCONINJE
+	G2	WAT	RATE	4850	1*	1*	1*	YES	1*	1*	1*	1*	/
+/
+
+TSTEP
+ 1 /--930 
+
+GCONINJE
+	G2	WAT	RATE	8050	1*	1*	1*	YES	1*	1*	1*	1*	/
+/
+
+TSTEP
+ 1 /--931 
+
+GCONINJE
+	G2	WAT	RATE	2950	1*	1*	1*	YES	1*	1*	1*	1*	/
+/
+
+TSTEP
+ 1 /--932 
+
+GCONINJE
+	G2	WAT	RATE	750	1*	1*	1*	YES	1*	1*	1*	1*	/
+/
+
+TSTEP
+ 1 /--933 
+
+GCONINJE
+	G2	WAT	RATE	1100	1*	1*	1*	YES	1*	1*	1*	1*	/
+/
+
+TSTEP
+ 1 /--934 
+
+GCONINJE
+	G2	WAT	RATE	250	1*	1*	1*	YES	1*	1*	1*	1*	/
+/
+
+TSTEP
+ 1 /--935 
+
+GCONINJE
+	G2	WAT	RATE	0	1*	1*	1*	YES	1*	1*	1*	1*	/
+/
+
+TSTEP
+ 1 /--936 
+
+GCONINJE
+	G2	WAT	RATE	0	1*	1*	1*	YES	1*	1*	1*	1*	/
+/
+
+TSTEP
+ 1 /--937 
+
+GCONINJE
+	G2	WAT	RATE	0	1*	1*	1*	YES	1*	1*	1*	1*	/
+/
+
+TSTEP
+ 1 /--938 
+
+GCONINJE
+	G2	WAT	RATE	800	1*	1*	1*	YES	1*	1*	1*	1*	/
+/
+
+TSTEP
+ 1 /--939 
+
+GCONINJE
+	G2	WAT	RATE	5900	1*	1*	1*	YES	1*	1*	1*	1*	/
+/
+
+TSTEP
+ 1 /--940 
+
+GCONINJE
+	G2	WAT	RATE	1050	1*	1*	1*	YES	1*	1*	1*	1*	/
+/
+
+TSTEP
+ 1 /--941 
+
+GCONINJE
+	G2	WAT	RATE	2350	1*	1*	1*	YES	1*	1*	1*	1*	/
+/
+
+TSTEP
+ 1 /--942 
+
+GCONINJE
+	G2	WAT	RATE	400	1*	1*	1*	YES	1*	1*	1*	1*	/
+/
+
+TSTEP
+ 1 /--943 
+
+GCONINJE
+	G2	WAT	RATE	1350	1*	1*	1*	YES	1*	1*	1*	1*	/
+/
+
+TSTEP
+ 1 /--944 
+
+GCONINJE
+	G2	WAT	RATE	1100	1*	1*	1*	YES	1*	1*	1*	1*	/
+/
+
+TSTEP
+ 1 /--945 
+
+GCONINJE
+	G2	WAT	RATE	1700	1*	1*	1*	YES	1*	1*	1*	1*	/
+/
+
+TSTEP
+ 1 /--946 
+
+GCONINJE
+	G2	WAT	RATE	200	1*	1*	1*	YES	1*	1*	1*	1*	/
+/
+
+TSTEP
+ 1 /--947 
+
+GCONINJE
+	G2	WAT	RATE	4950	1*	1*	1*	YES	1*	1*	1*	1*	/
+/
+
+TSTEP
+ 1 /--948 
+
+GCONINJE
+	G2	WAT	RATE	4400	1*	1*	1*	YES	1*	1*	1*	1*	/
+/
+
+TSTEP
+ 1 /--949 
+
+GCONINJE
+	G2	WAT	RATE	3700	1*	1*	1*	YES	1*	1*	1*	1*	/
+/
+
+TSTEP
+ 1 /--950 
+
+GCONINJE
+	G2	WAT	RATE	1500	1*	1*	1*	YES	1*	1*	1*	1*	/
+/
+
+TSTEP
+ 1 /--951 
+
+GCONINJE
+	G2	WAT	RATE	750	1*	1*	1*	YES	1*	1*	1*	1*	/
+/
+
+TSTEP
+ 1 /--952 
+
+GCONINJE
+	G2	WAT	RATE	1700	1*	1*	1*	YES	1*	1*	1*	1*	/
+/
+
+TSTEP
+ 1 /--953 
+
+GCONINJE
+	G2	WAT	RATE	1000	1*	1*	1*	YES	1*	1*	1*	1*	/
+/
+
+TSTEP
+ 1 /--954 
+
+GCONINJE
+	G2	WAT	RATE	4700	1*	1*	1*	YES	1*	1*	1*	1*	/
+/
+
+TSTEP
+ 1 /--955 
+
+GCONINJE
+	G2	WAT	RATE	8650	1*	1*	1*	YES	1*	1*	1*	1*	/
+/
+
+TSTEP
+ 1 /--956 
+
+GCONINJE
+	G2	WAT	RATE	8650	1*	1*	1*	YES	1*	1*	1*	1*	/
+/
+
+TSTEP
+ 1 /--957 
+
+GCONINJE
+	G2	WAT	RATE	1700	1*	1*	1*	YES	1*	1*	1*	1*	/
+/
+
+TSTEP
+ 1 /--958 
+
+GCONINJE
+	G2	WAT	RATE	300	1*	1*	1*	YES	1*	1*	1*	1*	/
+/
+
+TSTEP
+ 1 /--959 
+
+GCONINJE
+	G2	WAT	RATE	1150	1*	1*	1*	YES	1*	1*	1*	1*	/
+/
+
+TSTEP
+ 1 /--960 
+
+GCONINJE
+	G2	WAT	RATE	6900	1*	1*	1*	YES	1*	1*	1*	1*	/
+/
+
+TSTEP
+ 1 /--961 
+
+GCONINJE
+	G2	WAT	RATE	2450	1*	1*	1*	YES	1*	1*	1*	1*	/
+/
+
+TSTEP
+ 1 /--962 
+
+GCONINJE
+	G2	WAT	RATE	6150	1*	1*	1*	YES	1*	1*	1*	1*	/
+/
+
+TSTEP
+ 1 /--963 
+
+GCONINJE
+	G2	WAT	RATE	8650	1*	1*	1*	YES	1*	1*	1*	1*	/
+/
+
+TSTEP
+ 1 /--964 
+
+GCONINJE
+	G2	WAT	RATE	2100	1*	1*	1*	YES	1*	1*	1*	1*	/
+/
+
+TSTEP
+ 1 /--965 
+
+GCONINJE
+	G2	WAT	RATE	250	1*	1*	1*	YES	1*	1*	1*	1*	/
+/
+
+TSTEP
+ 1 /--966 
+
+GCONINJE
+	G2	WAT	RATE	400	1*	1*	1*	YES	1*	1*	1*	1*	/
+/
+
+TSTEP
+ 1 /--967 
+
+GCONINJE
+	G2	WAT	RATE	400	1*	1*	1*	YES	1*	1*	1*	1*	/
+/
+
+TSTEP
+ 1 /--968 
+
+GCONINJE
+	G2	WAT	RATE	1650	1*	1*	1*	YES	1*	1*	1*	1*	/
+/
+
+TSTEP
+ 1 /--969 
+
+GCONINJE
+	G2	WAT	RATE	5600	1*	1*	1*	YES	1*	1*	1*	1*	/
+/
+
+TSTEP
+ 1 /--970 
+
+GCONINJE
+	G2	WAT	RATE	6800	1*	1*	1*	YES	1*	1*	1*	1*	/
+/
+
+TSTEP
+ 1 /--971 
+
+GCONINJE
+	G2	WAT	RATE	6150	1*	1*	1*	YES	1*	1*	1*	1*	/
+/
+
+TSTEP
+ 1 /--972 
+
+GCONINJE
+	G2	WAT	RATE	8100	1*	1*	1*	YES	1*	1*	1*	1*	/
+/
+
+TSTEP
+ 1 /--973 
+
+GCONINJE
+	G2	WAT	RATE	2000	1*	1*	1*	YES	1*	1*	1*	1*	/
+/
+
+TSTEP
+ 1 /--974 
+
+GCONINJE
+	G2	WAT	RATE	1650	1*	1*	1*	YES	1*	1*	1*	1*	/
+/
+
+TSTEP
+ 1 /--975 
+
+GCONINJE
+	G2	WAT	RATE	4850	1*	1*	1*	YES	1*	1*	1*	1*	/
+/
+
+TSTEP
+ 1 /--976 
+
+GCONINJE
+	G2	WAT	RATE	8650	1*	1*	1*	YES	1*	1*	1*	1*	/
+/
+
+TSTEP
+ 1 /--977 
+
+GCONINJE
+	G2	WAT	RATE	8650	1*	1*	1*	YES	1*	1*	1*	1*	/
+/
+
+TSTEP
+ 1 /--978 
+
+GCONINJE
+	G2	WAT	RATE	6250	1*	1*	1*	YES	1*	1*	1*	1*	/
+/
+
+TSTEP
+ 1 /--979 
+
+GCONINJE
+	G2	WAT	RATE	4400	1*	1*	1*	YES	1*	1*	1*	1*	/
+/
+
+TSTEP
+ 1 /--980 
+
+GCONINJE
+	G2	WAT	RATE	8650	1*	1*	1*	YES	1*	1*	1*	1*	/
+/
+
+TSTEP
+ 1 /--981 
+
+GCONINJE
+	G2	WAT	RATE	8650	1*	1*	1*	YES	1*	1*	1*	1*	/
+/
+
+TSTEP
+ 1 /--982 
+
+GCONINJE
+	G2	WAT	RATE	8650	1*	1*	1*	YES	1*	1*	1*	1*	/
+/
+
+TSTEP
+ 1 /--983 
+
+GCONINJE
+	G2	WAT	RATE	3450	1*	1*	1*	YES	1*	1*	1*	1*	/
+/
+
+TSTEP
+ 1 /--984 
+
+GCONINJE
+	G2	WAT	RATE	6100	1*	1*	1*	YES	1*	1*	1*	1*	/
+/
+
+TSTEP
+ 1 /--985 
+
+GCONINJE
+	G2	WAT	RATE	2150	1*	1*	1*	YES	1*	1*	1*	1*	/
+/
+
+TSTEP
+ 1 /--986 
+
+GCONINJE
+	G2	WAT	RATE	5850	1*	1*	1*	YES	1*	1*	1*	1*	/
+/
+
+TSTEP
+ 1 /--987 
+
+GCONINJE
+	G2	WAT	RATE	1900	1*	1*	1*	YES	1*	1*	1*	1*	/
+/
+
+TSTEP
+ 1 /--988 
+
+GCONINJE
+	G2	WAT	RATE	1200	1*	1*	1*	YES	1*	1*	1*	1*	/
+/
+
+TSTEP
+ 1 /--989 
+
+GCONINJE
+	G2	WAT	RATE	350	1*	1*	1*	YES	1*	1*	1*	1*	/
+/
+
+TSTEP
+ 1 /--990 
+
+GCONINJE
+	G2	WAT	RATE	500	1*	1*	1*	YES	1*	1*	1*	1*	/
+/
+
+TSTEP
+ 1 /--991 
+
+GCONINJE
+	G2	WAT	RATE	450	1*	1*	1*	YES	1*	1*	1*	1*	/
+/
+
+TSTEP
+ 1 /--992 
+
+GCONINJE
+	G2	WAT	RATE	8650	1*	1*	1*	YES	1*	1*	1*	1*	/
+/
+
+TSTEP
+ 1 /--993 
+
+GCONINJE
+	G2	WAT	RATE	8650	1*	1*	1*	YES	1*	1*	1*	1*	/
+/
+
+TSTEP
+ 1 /--994 
+
+GCONINJE
+	G2	WAT	RATE	1800	1*	1*	1*	YES	1*	1*	1*	1*	/
+/
+
+TSTEP
+ 1 /--995 
+
+GCONINJE
+	G2	WAT	RATE	8650	1*	1*	1*	YES	1*	1*	1*	1*	/
+/
+
+TSTEP
+ 1 /--996 
+
+GCONINJE
+	G2	WAT	RATE	6550	1*	1*	1*	YES	1*	1*	1*	1*	/
+/
+
+TSTEP
+ 1 /--997 
+
+GCONINJE
+	G2	WAT	RATE	3150	1*	1*	1*	YES	1*	1*	1*	1*	/
+/
+
+TSTEP
+ 1 /--998 
+
+GCONINJE
+	G2	WAT	RATE	850	1*	1*	1*	YES	1*	1*	1*	1*	/
+/
+
+TSTEP
+ 1 /--999 
+
+GCONINJE
+	G2	WAT	RATE	3500	1*	1*	1*	YES	1*	1*	1*	1*	/
+/
+
+TSTEP
+ 1 /--1000 
+
+GCONINJE
+	G2	WAT	RATE	1600	1*	1*	1*	YES	1*	1*	1*	1*	/
+/
+
+TSTEP
+ 1 /--1001 
+
+GCONINJE
+	G2	WAT	RATE	6750	1*	1*	1*	YES	1*	1*	1*	1*	/
+/
+
+TSTEP
+ 1 /--1002 
+
+GCONINJE
+	G2	WAT	RATE	2100	1*	1*	1*	YES	1*	1*	1*	1*	/
+/
+
+TSTEP
+ 1 /--1003 
+
+GCONINJE
+	G2	WAT	RATE	5500	1*	1*	1*	YES	1*	1*	1*	1*	/
+/
+
+TSTEP
+ 1 /--1004 
+
+GCONINJE
+	G2	WAT	RATE	8650	1*	1*	1*	YES	1*	1*	1*	1*	/
+/
+
+TSTEP
+ 1 /--1005 
+
+GCONINJE
+	G2	WAT	RATE	8650	1*	1*	1*	YES	1*	1*	1*	1*	/
+/
+
+TSTEP
+ 1 /--1006 
+
+GCONINJE
+	G2	WAT	RATE	3550	1*	1*	1*	YES	1*	1*	1*	1*	/
+/
+
+TSTEP
+ 1 /--1007 
+
+GCONINJE
+	G2	WAT	RATE	2200	1*	1*	1*	YES	1*	1*	1*	1*	/
+/
+
+TSTEP
+ 1 /--1008 
+
+GCONINJE
+	G2	WAT	RATE	3250	1*	1*	1*	YES	1*	1*	1*	1*	/
+/
+
+TSTEP
+ 1 /--1009 
+
+GCONINJE
+	G2	WAT	RATE	5300	1*	1*	1*	YES	1*	1*	1*	1*	/
+/
+
+TSTEP
+ 1 /--1010 
+
+GCONINJE
+	G2	WAT	RATE	8650	1*	1*	1*	YES	1*	1*	1*	1*	/
+/
+
+TSTEP
+ 1 /--1011 
+
+GCONINJE
+	G2	WAT	RATE	3550	1*	1*	1*	YES	1*	1*	1*	1*	/
+/
+
+TSTEP
+ 1 /--1012 
+
+GCONINJE
+	G2	WAT	RATE	7550	1*	1*	1*	YES	1*	1*	1*	1*	/
+/
+
+TSTEP
+ 1 /--1013 
+
+GCONINJE
+	G2	WAT	RATE	800	1*	1*	1*	YES	1*	1*	1*	1*	/
+/
+
+TSTEP
+ 1 /--1014 
+
+GCONINJE
+	G2	WAT	RATE	850	1*	1*	1*	YES	1*	1*	1*	1*	/
+/
+
+TSTEP
+ 1 /--1015 
+
+GCONINJE
+	G2	WAT	RATE	8650	1*	1*	1*	YES	1*	1*	1*	1*	/
+/
+
+TSTEP
+ 1 /--1016 
+
+GCONINJE
+	G2	WAT	RATE	8650	1*	1*	1*	YES	1*	1*	1*	1*	/
+/
+
+TSTEP
+ 1 /--1017 
+
+GCONINJE
+	G2	WAT	RATE	8650	1*	1*	1*	YES	1*	1*	1*	1*	/
+/
+
+TSTEP
+ 1 /--1018 
+
+GCONINJE
+	G2	WAT	RATE	8650	1*	1*	1*	YES	1*	1*	1*	1*	/
+/
+
+TSTEP
+ 1 /--1019 
+
+GCONINJE
+	G2	WAT	RATE	8500	1*	1*	1*	YES	1*	1*	1*	1*	/
+/
+
+TSTEP
+ 1 /--1020 
+
+GCONINJE
+	G2	WAT	RATE	7500	1*	1*	1*	YES	1*	1*	1*	1*	/
+/
+
+TSTEP
+ 1 /--1021 
+
+GCONINJE
+	G2	WAT	RATE	350	1*	1*	1*	YES	1*	1*	1*	1*	/
+/
+
+TSTEP
+ 1 /--1022 
+
+GCONINJE
+	G2	WAT	RATE	8650	1*	1*	1*	YES	1*	1*	1*	1*	/
+/
+
+TSTEP
+ 1 /--1023 
+
+GCONINJE
+	G2	WAT	RATE	8650	1*	1*	1*	YES	1*	1*	1*	1*	/
+/
+
+TSTEP
+ 1 /--1024 
+
+GCONINJE
+	G2	WAT	RATE	8650	1*	1*	1*	YES	1*	1*	1*	1*	/
+/
+
+TSTEP
+ 1 /--1025 
+
+GCONINJE
+	G2	WAT	RATE	1850	1*	1*	1*	YES	1*	1*	1*	1*	/
+/
+
+TSTEP
+ 1 /--1026 
+
+GCONINJE
+	G2	WAT	RATE	750	1*	1*	1*	YES	1*	1*	1*	1*	/
+/
+
+TSTEP
+ 1 /--1027 
+
+GCONINJE
+	G2	WAT	RATE	6850	1*	1*	1*	YES	1*	1*	1*	1*	/
+/
+
+TSTEP
+ 1 /--1028 
+
+GCONINJE
+	G2	WAT	RATE	8650	1*	1*	1*	YES	1*	1*	1*	1*	/
+/
+
+TSTEP
+ 1 /--1029 
+
+GCONINJE
+	G2	WAT	RATE	8650	1*	1*	1*	YES	1*	1*	1*	1*	/
+/
+
+TSTEP
+ 1 /--1030 
+
+GCONINJE
+	G2	WAT	RATE	5800	1*	1*	1*	YES	1*	1*	1*	1*	/
+/
+
+TSTEP
+ 1 /--1031 
+
+GCONINJE
+	G2	WAT	RATE	1350	1*	1*	1*	YES	1*	1*	1*	1*	/
+/
+
+TSTEP
+ 1 /--1032 
+
+GCONINJE
+	G2	WAT	RATE	5850	1*	1*	1*	YES	1*	1*	1*	1*	/
+/
+
+TSTEP
+ 1 /--1033 
+
+GCONINJE
+	G2	WAT	RATE	8650	1*	1*	1*	YES	1*	1*	1*	1*	/
+/
+
+TSTEP
+ 1 /--1034 
+
+GCONINJE
+	G2	WAT	RATE	8650	1*	1*	1*	YES	1*	1*	1*	1*	/
+/
+
+TSTEP
+ 1 /--1035 
+
+GCONINJE
+	G2	WAT	RATE	3300	1*	1*	1*	YES	1*	1*	1*	1*	/
+/
+
+TSTEP
+ 1 /--1036 
+
+GCONINJE
+	G2	WAT	RATE	8650	1*	1*	1*	YES	1*	1*	1*	1*	/
+/
+
+TSTEP
+ 1 /--1037 
+
+GCONINJE
+	G2	WAT	RATE	8650	1*	1*	1*	YES	1*	1*	1*	1*	/
+/
+
+TSTEP
+ 1 /--1038 
+
+GCONINJE
+	G2	WAT	RATE	8650	1*	1*	1*	YES	1*	1*	1*	1*	/
+/
+
+TSTEP
+ 1 /--1039 
+
+GCONINJE
+	G2	WAT	RATE	8650	1*	1*	1*	YES	1*	1*	1*	1*	/
+/
+
+TSTEP
+ 1 /--1040 
+
+GCONINJE
+	G2	WAT	RATE	8650	1*	1*	1*	YES	1*	1*	1*	1*	/
+/
+
+TSTEP
+ 1 /--1041 
+
+GCONINJE
+	G2	WAT	RATE	8650	1*	1*	1*	YES	1*	1*	1*	1*	/
+/
+
+TSTEP
+ 1 /--1042 
+
+GCONINJE
+	G2	WAT	RATE	8650	1*	1*	1*	YES	1*	1*	1*	1*	/
+/
+
+TSTEP
+ 1 /--1043 
+
+GCONINJE
+	G2	WAT	RATE	8650	1*	1*	1*	YES	1*	1*	1*	1*	/
+/
+
+TSTEP
+ 1 /--1044 
+
+GCONINJE
+	G2	WAT	RATE	8650	1*	1*	1*	YES	1*	1*	1*	1*	/
+/
+
+TSTEP
+ 1 /--1045 
+
+GCONINJE
+	G2	WAT	RATE	4950	1*	1*	1*	YES	1*	1*	1*	1*	/
+/
+
+TSTEP
+ 1 /--1046 
+
+GCONINJE
+	G2	WAT	RATE	6300	1*	1*	1*	YES	1*	1*	1*	1*	/
+/
+
+TSTEP
+ 1 /--1047 
+
+GCONINJE
+	G2	WAT	RATE	8650	1*	1*	1*	YES	1*	1*	1*	1*	/
+/
+
+TSTEP
+ 1 /--1048 
+
+GCONINJE
+	G2	WAT	RATE	8650	1*	1*	1*	YES	1*	1*	1*	1*	/
+/
+
+TSTEP
+ 1 /--1049 
+
+GCONINJE
+	G2	WAT	RATE	7850	1*	1*	1*	YES	1*	1*	1*	1*	/
+/
+
+TSTEP
+ 1 /--1050 
+
+GCONINJE
+	G2	WAT	RATE	6900	1*	1*	1*	YES	1*	1*	1*	1*	/
+/
+
+TSTEP
+ 1 /--1051 
+
+GCONINJE
+	G2	WAT	RATE	8650	1*	1*	1*	YES	1*	1*	1*	1*	/
+/
+
+TSTEP
+ 1 /--1052 
+
+GCONINJE
+	G2	WAT	RATE	8650	1*	1*	1*	YES	1*	1*	1*	1*	/
+/
+
+TSTEP
+ 1 /--1053 
+
+GCONINJE
+	G2	WAT	RATE	4550	1*	1*	1*	YES	1*	1*	1*	1*	/
+/
+
+TSTEP
+ 1 /--1054 
+
+GCONINJE
+	G2	WAT	RATE	2600	1*	1*	1*	YES	1*	1*	1*	1*	/
+/
+
+TSTEP
+ 1 /--1055 
+
+GCONINJE
+	G2	WAT	RATE	350	1*	1*	1*	YES	1*	1*	1*	1*	/
+/
+
+TSTEP
+ 1 /--1056 
+
+GCONINJE
+	G2	WAT	RATE	2300	1*	1*	1*	YES	1*	1*	1*	1*	/
+/
+
+TSTEP
+ 1 /--1057 
+
+GCONINJE
+	G2	WAT	RATE	7600	1*	1*	1*	YES	1*	1*	1*	1*	/
+/
+
+TSTEP
+ 1 /--1058 
+
+GCONINJE
+	G2	WAT	RATE	7550	1*	1*	1*	YES	1*	1*	1*	1*	/
+/
+
+TSTEP
+ 1 /--1059 
+
+GCONINJE
+	G2	WAT	RATE	8650	1*	1*	1*	YES	1*	1*	1*	1*	/
+/
+
+TSTEP
+ 1 /--1060 
+
+GCONINJE
+	G2	WAT	RATE	8650	1*	1*	1*	YES	1*	1*	1*	1*	/
+/
+
+TSTEP
+ 1 /--1061 
+
+GCONINJE
+	G2	WAT	RATE	8650	1*	1*	1*	YES	1*	1*	1*	1*	/
+/
+
+TSTEP
+ 1 /--1062 
+
+GCONINJE
+	G2	WAT	RATE	8650	1*	1*	1*	YES	1*	1*	1*	1*	/
+/
+
+TSTEP
+ 1 /--1063 
+
+GCONINJE
+	G2	WAT	RATE	8650	1*	1*	1*	YES	1*	1*	1*	1*	/
+/
+
+TSTEP
+ 1 /--1064 
+
+GCONINJE
+	G2	WAT	RATE	8650	1*	1*	1*	YES	1*	1*	1*	1*	/
+/
+
+TSTEP
+ 1 /--1065 
+
+GCONINJE
+	G2	WAT	RATE	8650	1*	1*	1*	YES	1*	1*	1*	1*	/
+/
+
+TSTEP
+ 1 /--1066 
+
+GCONINJE
+	G2	WAT	RATE	6850	1*	1*	1*	YES	1*	1*	1*	1*	/
+/
+
+TSTEP
+ 1 /--1067 
+
+GCONINJE
+	G2	WAT	RATE	3800	1*	1*	1*	YES	1*	1*	1*	1*	/
+/
+
+TSTEP
+ 1 /--1068 
+
+GCONINJE
+	G2	WAT	RATE	2200	1*	1*	1*	YES	1*	1*	1*	1*	/
+/
+
+TSTEP
+ 1 /--1069 
+
+GCONINJE
+	G2	WAT	RATE	3300	1*	1*	1*	YES	1*	1*	1*	1*	/
+/
+
+TSTEP
+ 1 /--1070 
+
+GCONINJE
+	G2	WAT	RATE	8650	1*	1*	1*	YES	1*	1*	1*	1*	/
+/
+
+TSTEP
+ 1 /--1071 
+
+GCONINJE
+	G2	WAT	RATE	4150	1*	1*	1*	YES	1*	1*	1*	1*	/
+/
+
+TSTEP
+ 1 /--1072 
+
+GCONINJE
+	G2	WAT	RATE	8650	1*	1*	1*	YES	1*	1*	1*	1*	/
+/
+
+TSTEP
+ 1 /--1073 
+
+GCONINJE
+	G2	WAT	RATE	8650	1*	1*	1*	YES	1*	1*	1*	1*	/
+/
+
+TSTEP
+ 1 /--1074 
+
+GCONINJE
+	G2	WAT	RATE	8650	1*	1*	1*	YES	1*	1*	1*	1*	/
+/
+
+TSTEP
+ 1 /--1075 
+
+GCONINJE
+	G2	WAT	RATE	8650	1*	1*	1*	YES	1*	1*	1*	1*	/
+/
+
+TSTEP
+ 1 /--1076 
+
+GCONINJE
+	G2	WAT	RATE	8650	1*	1*	1*	YES	1*	1*	1*	1*	/
+/
+
+TSTEP
+ 1 /--1077 
+
+GCONINJE
+	G2	WAT	RATE	8650	1*	1*	1*	YES	1*	1*	1*	1*	/
+/
+
+TSTEP
+ 1 /--1078 
+
+GCONINJE
+	G2	WAT	RATE	8650	1*	1*	1*	YES	1*	1*	1*	1*	/
+/
+
+TSTEP
+ 1 /--1079 
+
+GCONINJE
+	G2	WAT	RATE	7450	1*	1*	1*	YES	1*	1*	1*	1*	/
+/
+
+TSTEP
+ 1 /--1080 
+
+GCONINJE
+	G2	WAT	RATE	8650	1*	1*	1*	YES	1*	1*	1*	1*	/
+/
+
+TSTEP
+ 1 /--1081 
+
+GCONINJE
+	G2	WAT	RATE	8650	1*	1*	1*	YES	1*	1*	1*	1*	/
+/
+
+TSTEP
+ 1 /--1082 
+
+GCONINJE
+	G2	WAT	RATE	8650	1*	1*	1*	YES	1*	1*	1*	1*	/
+/
+
+TSTEP
+ 1 /--1083 
+
+GCONINJE
+	G2	WAT	RATE	8650	1*	1*	1*	YES	1*	1*	1*	1*	/
+/
+
+TSTEP
+ 1 /--1084 
+
+GCONINJE
+	G2	WAT	RATE	8650	1*	1*	1*	YES	1*	1*	1*	1*	/
+/
+
+TSTEP
+ 1 /--1085 
+
+GCONINJE
+	G2	WAT	RATE	8650	1*	1*	1*	YES	1*	1*	1*	1*	/
+/
+
+TSTEP
+ 1 /--1086 
+
+GCONINJE
+	G2	WAT	RATE	8650	1*	1*	1*	YES	1*	1*	1*	1*	/
+/
+
+TSTEP
+ 1 /--1087 
+
+GCONINJE
+	G2	WAT	RATE	8650	1*	1*	1*	YES	1*	1*	1*	1*	/
+/
+
+TSTEP
+ 1 /--1088 
+
+GCONINJE
+	G2	WAT	RATE	8650	1*	1*	1*	YES	1*	1*	1*	1*	/
+/
+
+TSTEP
+ 1 /--1089 
+
+GCONINJE
+	G2	WAT	RATE	8650	1*	1*	1*	YES	1*	1*	1*	1*	/
+/
+
+TSTEP
+ 1 /--1090 
+
+GCONINJE
+	G2	WAT	RATE	8650	1*	1*	1*	YES	1*	1*	1*	1*	/
+/
+
+TSTEP
+ 1 /--1091 
+
+GCONINJE
+	G2	WAT	RATE	8650	1*	1*	1*	YES	1*	1*	1*	1*	/
+/
+
+TSTEP
+ 1 /--1092 
+
+GCONINJE
+	G2	WAT	RATE	4500	1*	1*	1*	YES	1*	1*	1*	1*	/
+/
+
+TSTEP
+ 1 /--1093 
+
+GCONINJE
+	G2	WAT	RATE	8650	1*	1*	1*	YES	1*	1*	1*	1*	/
+/
+
+TSTEP
+ 1 /--1094 
+
+GCONINJE
+	G2	WAT	RATE	8650	1*	1*	1*	YES	1*	1*	1*	1*	/
+/
+
+TSTEP
+ 1 /--1095 
+
